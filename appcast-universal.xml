@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Unau updates</title>
+    <item>
+      <title>Unau 0.1.0-beta.2</title>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <description>{
+  "zh-Hans": "这一版整理了更新入口和日常操作。\n\n• 更新前可以预览变更内容，下载完成后再决定何时安装。\n• 撤销和重做集中到集合菜单，减少重复入口。\n• 设置中可以切换中文、英文和日语，默认中文。\n• 关于页可了解 Komoribe 的创作，支持完全自愿。\n• 应用、菜单栏和网站统一使用新的树懒图标。",
+  "en": "This beta brings in-app updates and simpler everyday controls.\n\n• Review changes before downloading, then choose when to install.\n• Undo and Redo now stay in the collection menu, with fewer duplicate controls.\n• Choose Chinese, English, or Japanese in Settings. Chinese is the default.\n• Learn about Komoribe’s work from About Unau. Support is entirely optional.\n• The app, menu bar, and website share the new sloth artwork.",
+  "ja": "今回のベータ版では、アップデート画面と日常の操作を整えました。\n\n• 更新内容を先に確認し、ダウンロード後は好きなタイミングでインストールできます。\n• 取り消しとやり直しをコレクションメニューにまとめ、重複する操作を減らしました。\n• 設定で中国語、英語、日本語を選べます。初期設定は中国語です。\n• 「Unauについて」からKomoribeの制作をご覧いただけます。ご支援は任意です。\n• アプリ、メニューバー、ウェブサイトを新しいナマケモノのアイコンに統一しました。"
+}
+</description>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.0-beta.2/unau-0.1.0-beta.2-macos-universal.dmg" length="7931055" type="application/octet-stream" sparkle:edSignature="muLlibTya9wAoc2/PIhIw/wlMfRQeNDZlZG3an4mehREcfEYp8vD9yic0j6/hpJRpdmapL6I1foQRSIfvuweBQ=="></enclosure>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: ogSfXPbgVJtlFscqonx8v+IDJP0R8LnmaQIYWIN5fgcwwTaxPeW137KvOU4N+KM9PxGISilT0ZnHqOHHE8lBDQ==
+length: 2644
+-->
