@@ -4,6 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Unau updates</title>
     <item>
+      <title>Unau 0.1.0-beta.4</title>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <description>{
+  "zh-Hans": "窗口、防休眠和清洁键盘，现在可以在一处找到。\n\n• 从窗口架的「工具」或右击菜单栏图标打开常用工具。自己选择固定哪些入口，顺序不会自动变化。\n• 防休眠可设置时长或手动结束，也可单独开启「同时保持屏幕常亮」。到时、睡眠或退出 Unau 后结束；重启应用不会自动恢复。\n• 清洁键盘先留 3 秒准备，到时自动恢复输入。鼠标长按退出按钮或长按 Esc 2 秒也可结束，随后回到原来的工作。\n• 窗口架支持滚轮、触控板和拖动连续浏览，保留各集合的位置。主动打开后可用方向键选择、空格预览、回车切换。\n• 快速滑动时保留已有图片，停稳后再取图。macOS 26 及以后，当前屏幕的放大预览改用单次截图，减少录屏状态反复切换。\n• 设置中可关闭「显示窗口画面预览」，保留应用图标与标题。系统隐私提示仍由 macOS 控制。\n• 如果防休眠未能结束，会保留提示并等待重试，调整选项不会掩盖未结束的状态。",
+  "en": "Windows, Keep Awake, and Clean Keyboard are now within reach in one place.\n\n• Open Tools from the window shelf or right-click the menu bar icon. Pin the tools you want; their order stays as you set it.\n• Keep Awake can run for a chosen duration or until you stop it. Keep the display on with a separate option. The session ends on expiry, sleep, or quitting Unau, and does not resume when the app restarts.\n• Clean Keyboard gives you 3 seconds to get ready and restores input when the timer ends. Hold the exit button or Esc for 2 seconds to finish early and return to your work.\n• Browse windows with a mouse wheel, trackpad, or drag; each collection keeps its position. After opening the shelf yourself, use arrow keys to select, Space to preview, and Return to switch.\n• Fast scrolling keeps existing images until browsing settles. On macOS 26 and later, enlarged previews of on-screen windows use a single screenshot to reduce recording-state changes.\n• Turn off window image previews in Settings to keep app icons and titles. macOS still controls its privacy indicators.\n• If Keep Awake cannot stop, its warning stays visible until cleanup succeeds; changing options cannot hide the unfinished session.",
+  "ja": "ウインドウ、防休眠、キーボードの清掃を、一か所から使えるようになりました。\n\n• ウインドウ一覧の「ツール」、またはメニューバーのアイコンを右クリックして開けます。よく使うツールを自分で固定でき、順番は自動で変わりません。\n• 防休眠は時間を指定するか、手動で終了できます。画面を点灯したままにする設定は別に選べます。時間切れ、スリープ、Unauの終了で解除され、アプリを再起動しても自動では再開しません。\n• キーボードの清掃は 3 秒の準備時間を設け、時間が来ると入力を戻します。終了ボタンかEscを 2 秒長押しして途中で終え、そのまま元の作業に戻れます。\n• マウスホイール、トラックパッド、ドラッグで続けて閲覧でき、コレクションごとの位置を保持します。一覧を手動で開いた後は、矢印キーで選択、スペースでプレビュー、Returnで切り替えられます。\n• 素早くスクロールしている間は既存の画像を保ち、操作が落ち着いてから取得します。macOS 26 以降では、現在の画面にあるウインドウの拡大プレビューを一度の撮影にし、録画状態の切り替えを減らしました。\n• 設定で画面プレビューをオフにすると、アプリのアイコンとタイトルを表示します。プライバシー表示は引き続きmacOSが管理します。\n• 防休眠を終了できなかった場合は、再試行で解除されるまで案内を残し、設定の変更で未終了の状態を隠さないようにしました。"
+}
+</description>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.0-beta.4/unau-0.1.0-beta.4-macos-universal.dmg" length="10185211" type="application/octet-stream" sparkle:edSignature="05Kq6p0kHWGuLJVj6/1NUFWpiQWHBYZ5pl+1H5voJsGRBtFpf9DG5/o9r0+T+vRVHkkN51WIDEVwFjnok+8cDQ=="></enclosure>
+    </item>
+    <item>
       <title>Unau 0.1.0-beta.2</title>
       <sparkle:version>3</sparkle:version>
       <sparkle:shortVersionString>0.1.0-beta.2</sparkle:shortVersionString>
@@ -19,6 +33,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ogSfXPbgVJtlFscqonx8v+IDJP0R8LnmaQIYWIN5fgcwwTaxPeW137KvOU4N+KM9PxGISilT0ZnHqOHHE8lBDQ==
-length: 2644
+edSignature: recQQ1t8o8NDEipzuqatUGI/2BtsynqDFWYAkYe8Agwn/f6oNTVRdDi9Q9XBnyLN45EZVgtvqDK3p1gFj4FWAA==
+length: 7402
 -->
