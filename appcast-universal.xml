@@ -4,6 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Unau updates</title>
     <item>
+      <title>Unau 0.1.0-beta.7</title>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <description>{
+  "zh-Hans": "换一种语言，接着用。\n\n• 切换中文、英文或日语时，设置中的快捷键区域、录制按钮，以及工具详情、固定按钮和时长选项会同步更新，无需重新打开窗口，已选时长和快捷键保持不变。\n\n测试版更新后，macOS 仍可能需要重新确认权限；可在设置中查看恢复步骤。",
+  "en": "Switch languages and carry on.\n\n• Changing between Chinese, English, and Japanese now updates the shortcut section and recorder buttons in Settings, along with tool details, pin buttons, and duration options, without reopening the window or changing your selected durations and shortcuts.\n\nAfter a beta update, macOS may still require you to allow access again. Recovery steps are available in Settings.",
+  "ja": "言語を切り替えて、そのまま続ける。\n\n• 中国語、英語、日本語を切り替えると、設定のショートカット欄と登録ボタン、ツールの詳細、固定ボタン、時間の選択肢も切り替わります。ウインドウを開き直す必要はなく、選択した時間やショートカットはそのままです。\n\nベータ版の更新後は、macOSで再度アクセスを許可する必要がある場合があります。復旧手順は設定で確認できます。"
+}
+</description>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.0-beta.7/unau-0.1.0-beta.7-macos-universal.dmg" length="10523171" type="application/octet-stream" sparkle:edSignature="G/yz8Isp0HHWCcNuxgHjDQOWRohfk+Wb8+GFk5+VEEF3/xUXpzCIsbBO38tdBi8M2jAr/AnkLVm9eZmhqZiODw=="></enclosure>
+    </item>
+    <item>
       <title>Unau 0.1.0-beta.6</title>
       <sparkle:version>7</sparkle:version>
       <sparkle:shortVersionString>0.1.0-beta.6</sparkle:shortVersionString>
@@ -61,6 +75,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: IM3mgEVO1GhBA3et0s0o1k0i99PrBXtZUQfMZvL0im5BtQNe8Yt9Pvymq+VkUqXTgM/pB1mjhawWNZ9vfhsmBg==
-length: 12384
+edSignature: IBEYJN513bfy+HFa2hQ2cXcleh6BjViqyH6zHegGu9b4n6PcMbO1k8O+GcVCa/yMWTX+h7Gd4E74p97z48uOCg==
+length: 14365
 -->
