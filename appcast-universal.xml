@@ -4,6 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Unau updates</title>
     <item>
+      <title>Unau 0.1.0-beta.6</title>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <description>{
+  "zh-Hans": "没有画面，也能认出要找的窗口。\n\n• 关闭画面预览、画面不可用或窗口最小化时，卡片改用应用名称和最多三行标题；有画面的卡片也会补齐应用名称或屏幕位置，方便辨认。\n• 权限未生效时，可在设置中展开恢复步骤、重新检查，并在访达中找到当前使用的 Unau。指引默认收起，需要时再查看。\n\n测试版更新后，仍可能需要重新授权。此次改进恢复指引，不改变 macOS 的授权规则。",
+  "en": "Recognize the window you need, even without a preview.\n\n• When previews are off, unavailable, or a window is minimized, cards show the app name and up to three lines of the title. Cards with previews also show the app name or display location.\n• If access is not working, expand the recovery steps in Settings, check again, or find the running copy of Unau in Finder. The steps stay collapsed until you need them.\n\nBeta updates may still require you to allow access again. This update improves the recovery guidance; it does not change macOS permission rules.",
+  "ja": "プレビューがなくても、探しているウインドウがわかるように。\n\n• プレビューがオフの場合、画像を取得できない場合、ウインドウが最小化されている場合は、アプリ名と最大3行のタイトルを表示します。プレビューがあるカードにも、アプリ名またはディスプレイの位置を表示します。\n• 権限が反映されない場合は、設定で復旧手順を開き、状態を再確認したり、使用中のUnauをFinderで表示したりできます。手順は必要なときにだけ開けます。\n\nベータ版の更新後は、再度アクセスを許可する必要がある場合があります。今回は復旧手順の案内を改善したもので、macOSの権限の仕組みは変わりません。"
+}
+</description>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.0-beta.6/unau-0.1.0-beta.6-macos-universal.dmg" length="10515851" type="application/octet-stream" sparkle:edSignature="CHen8RcddMfDhbymiuFQX66ev61+X2Sb5ww5rrRJZ3sjlhabjzIKlKK+wxqkK8FDhHYlTLXYFTqlL7zgGc2tDg=="></enclosure>
+    </item>
+    <item>
       <title>Unau 0.1.0-beta.5</title>
       <sparkle:version>6</sparkle:version>
       <sparkle:shortVersionString>0.1.0-beta.5</sparkle:shortVersionString>
@@ -47,6 +61,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: JKmILgy0XWhUbZibsV8Qck1wuhm1V+FygC7Fhdo4w9V9oa/LpLKTgMhULlFYxC9yAADCz+vpeLUW2cvqgYGTCw==
-length: 9786
+edSignature: IM3mgEVO1GhBA3et0s0o1k0i99PrBXtZUQfMZvL0im5BtQNe8Yt9Pvymq+VkUqXTgM/pB1mjhawWNZ9vfhsmBg==
+length: 12384
 -->
