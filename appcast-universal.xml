@@ -4,6 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Unau updates</title>
     <item>
+      <title>Unau 0.1.0-beta.5</title>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <description>{
+  "zh-Hans": "少一点寻找，也少一点重新整理。\n\n• 设置中可自定义「展开或收起窗口架」与「打开常用工具」快捷键，默认留空，由你选择是否开启。\n• 重启后，空集合找到同名窗口时可以直接关联，保留原有顺序，也能从集合菜单撤销。\n• 窗口标题变了，集合编辑器会根据同应用的单个窗口或编辑器标题线索提供候选，说明推荐依据，由你确认后保存。",
+  "en": "Less searching, less reorganizing.\n\n• Set your own shortcuts in Settings to toggle the window shelf or open Quick Tools; both are unassigned until you choose to use them.\n• After a restart, reconnect matching windows directly from an empty collection, keeping their order and the option to undo from the collection menu.\n• When titles change, the collection editor suggests a window based on a shared editor-title fragment or the app having just one window open, shows why it was suggested, and leaves confirmation and saving to you.",
+  "ja": "探す手間も、整理し直す手間も、少し軽く。\n\n• 設定でウインドウ一覧の開閉とよく使うツールを開くショートカットを指定でき、必要になるまでは未設定のまま使えます。\n• 再起動後、空のコレクションで同じタイトルのウインドウが見つかれば、その場で再指定でき、元の順序を保ったままメニューから取り消すこともできます。\n• タイトルが変わった場合は、同じアプリで開いている唯一のウインドウやエディタのタイトルに共通する文字列から候補と理由を示し、確認してから保存できます。"
+}
+</description>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.0-beta.5/unau-0.1.0-beta.5-macos-universal.dmg" length="10396785" type="application/octet-stream" sparkle:edSignature="9J5rFDtGvgQjl/DJw3DFPhwnGJ6knIz15uGjtbltBLvMeWQkOt2cpXSqzwgzWPY4OXc8ZWyrx0tBMjj6xGvMCw=="></enclosure>
+    </item>
+    <item>
       <title>Unau 0.1.0-beta.4</title>
       <sparkle:version>5</sparkle:version>
       <sparkle:shortVersionString>0.1.0-beta.4</sparkle:shortVersionString>
@@ -33,6 +47,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: recQQ1t8o8NDEipzuqatUGI/2BtsynqDFWYAkYe8Agwn/f6oNTVRdDi9Q9XBnyLN45EZVgtvqDK3p1gFj4FWAA==
-length: 7402
+edSignature: JKmILgy0XWhUbZibsV8Qck1wuhm1V+FygC7Fhdo4w9V9oa/LpLKTgMhULlFYxC9yAADCz+vpeLUW2cvqgYGTCw==
+length: 9786
 -->
