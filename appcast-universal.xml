@@ -4,6 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Unau updates</title>
     <item>
+      <title>Unau 0.1.0-beta.8</title>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <description>{
+  "zh-Hans": "按原来的习惯，继续使用。\n\n• 本次加入试用与授权功能的内测准备；公开 beta 暂不启用，现有使用方式不变。\n\n窗口切换、集合、快捷键和语言设置均保留。测试版更新后，macOS 可能需要重新确认权限，可在设置中查看恢复步骤。",
+  "en": "Carry on as usual.\n\n• This build prepares trial and licensing features for internal testing. They remain disabled in the public beta, so you can keep using Unau as before.\n\nWindow switching, collections, shortcuts, and language settings are preserved. After a beta update, macOS may require you to allow access again. Recovery steps are available in Settings.",
+  "ja": "いつもの使い方で、そのまま。\n\n• 試用とライセンス機能の内部テストに向けた準備を追加しました。公開ベータ版では有効にならず、これまでどおり利用できます。\n\nウインドウ切り替え、コレクション、ショートカット、言語設定はそのままです。更新後にmacOSで再度アクセスを許可する必要がある場合は、設定の復旧手順をご確認ください。"
+}
+</description>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.0-beta.8/unau-0.1.0-beta.8-macos-universal.dmg" length="11120690" type="application/octet-stream" sparkle:edSignature="pictsKD/b0WtJrD9nBTBfiOfB7RftyumB74GxYqDlp4mDg7272fjxvgtMmeeZzWRPkD2QZWpZNatkZW/cWa0DQ=="></enclosure>
+    </item>
+    <item>
       <title>Unau 0.1.0-beta.7</title>
       <sparkle:version>8</sparkle:version>
       <sparkle:shortVersionString>0.1.0-beta.7</sparkle:shortVersionString>
@@ -75,6 +89,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: IBEYJN513bfy+HFa2hQ2cXcleh6BjViqyH6zHegGu9b4n6PcMbO1k8O+GcVCa/yMWTX+h7Gd4E74p97z48uOCg==
-length: 14365
+edSignature: ZBWwm9xbpaASCTpHHnnFUUQllZojZEnk1wlp5jluzOZoAaSZOB1wV6prLJTWdUL6twywAU34FgLcruhE+5ZTCg==
+length: 16203
 -->
