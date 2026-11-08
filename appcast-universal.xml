@@ -4,105 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Unau updates</title>
     <item>
-      <title>Unau 0.1.0-beta.10</title>
-      <sparkle:version>11</sparkle:version>
-      <sparkle:shortVersionString>0.1.0-beta.10</sparkle:shortVersionString>
+      <title>Unau 0.1.0</title>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>preview</sparkle:channel>
       <description>{
-  "zh-Hans": "一杯相伴，安心继续。\n\n• 防休眠换上了 Unau 的枝叶杯图标，在常用工具、工具列表、详情与运行中的会话里保持一致；开启时出现静止的热气，关闭后收起，浅色与深色外观都能清楚辨认。\n\n窗口切换、集合、快捷键与语言设置沿用原来的使用方式。\n\n测试版更新后，macOS 仍可能需要重新确认权限；可在设置中查看恢复步骤。",
-  "en": "A little company while you carry on.\n\n• Keep Awake now uses Unau’s leaf-cup icon throughout Quick Tools, the tool list, details, and running sessions, with still wisps of steam when active and a clear appearance in both light and dark mode.\n\nWindow switching, collections, shortcuts, and language settings work as before.\n\nAfter a beta update, macOS may still require you to allow access again. Recovery steps are available in Settings.",
-  "ja": "小さなカップと、作業の続きを。\n\n• スリープ防止のアイコンを、よく使うツール、ツール一覧、詳細、実行中のセッションで、葉を添えたUnauのカップに統一しました。有効な間だけ静止した湯気が現れ、ライトとダークのどちらの外観でも見分けられます。\n\nウインドウ切り替え、コレクション、ショートカット、言語設定は、これまでどおり使えます。\n\nベータ版の更新後は、macOSで再度アクセスを許可する必要がある場合があります。復旧手順は設定で確認できます。"
+  "zh-Hans": "先用一阵，喜欢再留下。\n\n• 从「试用与授权」主动开始完整 7 天试用，不追溯旧版安装日期，也不需要填写付款信息。\n• 输入社区兑换码，先查看使用期限，再确认兑换；首批社区码提供 14 天体验，剩余试用时间会保留。\n• 已有授权保留期限与设备名额，重启或更新不会重新计时；窗口集合、偏好与快捷键继续保留。\n\n这一版开始使用正式授权服务；体验到期后，需要有效授权继续使用。Dodo 商户仍在审核，永久授权购买尚不可用。\n\n当前发行版未完成 Apple Developer ID 签名与公证。首次打开或更新后，macOS 可能要求重新确认系统权限或钥匙串访问；请保留已有钥匙串条目与授权码，安装指引见 Unau 官网常见问题。",
+  "en": "Try it for a while. Keep it if it fits.\n\n• Start a full 7-day trial from Trial &amp; License when you choose, without using your earlier installation date or entering payment details.\n• Preview your community code’s access period before redeeming it; the first community codes provide 14 days and preserve any remaining trial time.\n• Existing licenses retain their expiry and device slots across restarts and updates, alongside your window collections, preferences and shortcuts.\n\nThis release enables the live licensing service. A valid license is required after access expires. Dodo merchant verification is still in progress, so permanent-license purchases are not yet available.\n\nThis release is not Developer ID signed or notarized by Apple. On first launch or after updating, macOS may ask you to confirm permissions or Keychain access again. Keep existing Keychain entries and license keys; installation guidance is in the website FAQ.",
+  "ja": "まずはしばらく、いつもの作業で。\n\n• 「試用とライセンス」から、ご自身のタイミングで7日間の試用を開始できます。以前のインストール日は起算日に含めず、支払い情報の入力も不要です。\n• コミュニティ向けコードは、利用期限を確認してから交換できます。初回配布のコードは14日間で、試用の残り時間も引き継ぎます。\n• 有効なライセンスの期限と端末枠、コレクションや設定、ショートカットは、再起動や更新後も引き継がれます。\n\nこのリリースから正式なライセンスサービスを使用します。利用期間の終了後は有効なライセンスが必要です。Dodoの加盟店審査中のため、永久ライセンスはまだ購入できません。\n\n現在のリリースはApple Developer IDによる署名と公証を受けていません。初回起動や更新後に、権限やキーチェーンへのアクセスを再確認する場合があります。既存のキーチェーン項目とライセンスキーを残し、公式サイトのFAQでインストール手順をご確認ください。"
 }
 </description>
-      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.0-beta.10/unau-0.1.0-beta.10-macos-universal.dmg" length="10540720" type="application/octet-stream" sparkle:edSignature="lw2mvt3qysZaIIrpZm19BVuTMJ0CnIP+tG9HpiSd+xxz3meqGqJRfgXOdeHK7Dw+W7MtVDkJUxq/LAeA6o+qDQ=="></enclosure>
-    </item>
-    <item>
-      <title>Unau 0.1.0-beta.8</title>
-      <sparkle:version>9</sparkle:version>
-      <sparkle:shortVersionString>0.1.0-beta.8</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>preview</sparkle:channel>
-      <description>{
-  "zh-Hans": "按原来的习惯，继续使用。\n\n• 本次加入试用与授权功能的内测准备；公开 beta 暂不启用，现有使用方式不变。\n\n窗口切换、集合、快捷键和语言设置均保留。测试版更新后，macOS 可能需要重新确认权限，可在设置中查看恢复步骤。",
-  "en": "Carry on as usual.\n\n• This build prepares trial and licensing features for internal testing. They remain disabled in the public beta, so you can keep using Unau as before.\n\nWindow switching, collections, shortcuts, and language settings are preserved. After a beta update, macOS may require you to allow access again. Recovery steps are available in Settings.",
-  "ja": "いつもの使い方で、そのまま。\n\n• 試用とライセンス機能の内部テストに向けた準備を追加しました。公開ベータ版では有効にならず、これまでどおり利用できます。\n\nウインドウ切り替え、コレクション、ショートカット、言語設定はそのままです。更新後にmacOSで再度アクセスを許可する必要がある場合は、設定の復旧手順をご確認ください。"
-}
-</description>
-      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.0-beta.8/unau-0.1.0-beta.8-macos-universal.dmg" length="11120690" type="application/octet-stream" sparkle:edSignature="pictsKD/b0WtJrD9nBTBfiOfB7RftyumB74GxYqDlp4mDg7272fjxvgtMmeeZzWRPkD2QZWpZNatkZW/cWa0DQ=="></enclosure>
-    </item>
-    <item>
-      <title>Unau 0.1.0-beta.7</title>
-      <sparkle:version>8</sparkle:version>
-      <sparkle:shortVersionString>0.1.0-beta.7</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>preview</sparkle:channel>
-      <description>{
-  "zh-Hans": "换一种语言，接着用。\n\n• 切换中文、英文或日语时，设置中的快捷键区域、录制按钮，以及工具详情、固定按钮和时长选项会同步更新，无需重新打开窗口，已选时长和快捷键保持不变。\n\n测试版更新后，macOS 仍可能需要重新确认权限；可在设置中查看恢复步骤。",
-  "en": "Switch languages and carry on.\n\n• Changing between Chinese, English, and Japanese now updates the shortcut section and recorder buttons in Settings, along with tool details, pin buttons, and duration options, without reopening the window or changing your selected durations and shortcuts.\n\nAfter a beta update, macOS may still require you to allow access again. Recovery steps are available in Settings.",
-  "ja": "言語を切り替えて、そのまま続ける。\n\n• 中国語、英語、日本語を切り替えると、設定のショートカット欄と登録ボタン、ツールの詳細、固定ボタン、時間の選択肢も切り替わります。ウインドウを開き直す必要はなく、選択した時間やショートカットはそのままです。\n\nベータ版の更新後は、macOSで再度アクセスを許可する必要がある場合があります。復旧手順は設定で確認できます。"
-}
-</description>
-      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.0-beta.7/unau-0.1.0-beta.7-macos-universal.dmg" length="10523171" type="application/octet-stream" sparkle:edSignature="G/yz8Isp0HHWCcNuxgHjDQOWRohfk+Wb8+GFk5+VEEF3/xUXpzCIsbBO38tdBi8M2jAr/AnkLVm9eZmhqZiODw=="></enclosure>
-    </item>
-    <item>
-      <title>Unau 0.1.0-beta.6</title>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>0.1.0-beta.6</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>preview</sparkle:channel>
-      <description>{
-  "zh-Hans": "没有画面，也能认出要找的窗口。\n\n• 关闭画面预览、画面不可用或窗口最小化时，卡片改用应用名称和最多三行标题；有画面的卡片也会补齐应用名称或屏幕位置，方便辨认。\n• 权限未生效时，可在设置中展开恢复步骤、重新检查，并在访达中找到当前使用的 Unau。指引默认收起，需要时再查看。\n\n测试版更新后，仍可能需要重新授权。此次改进恢复指引，不改变 macOS 的授权规则。",
-  "en": "Recognize the window you need, even without a preview.\n\n• When previews are off, unavailable, or a window is minimized, cards show the app name and up to three lines of the title. Cards with previews also show the app name or display location.\n• If access is not working, expand the recovery steps in Settings, check again, or find the running copy of Unau in Finder. The steps stay collapsed until you need them.\n\nBeta updates may still require you to allow access again. This update improves the recovery guidance; it does not change macOS permission rules.",
-  "ja": "プレビューがなくても、探しているウインドウがわかるように。\n\n• プレビューがオフの場合、画像を取得できない場合、ウインドウが最小化されている場合は、アプリ名と最大3行のタイトルを表示します。プレビューがあるカードにも、アプリ名またはディスプレイの位置を表示します。\n• 権限が反映されない場合は、設定で復旧手順を開き、状態を再確認したり、使用中のUnauをFinderで表示したりできます。手順は必要なときにだけ開けます。\n\nベータ版の更新後は、再度アクセスを許可する必要がある場合があります。今回は復旧手順の案内を改善したもので、macOSの権限の仕組みは変わりません。"
-}
-</description>
-      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.0-beta.6/unau-0.1.0-beta.6-macos-universal.dmg" length="10515851" type="application/octet-stream" sparkle:edSignature="CHen8RcddMfDhbymiuFQX66ev61+X2Sb5ww5rrRJZ3sjlhabjzIKlKK+wxqkK8FDhHYlTLXYFTqlL7zgGc2tDg=="></enclosure>
-    </item>
-    <item>
-      <title>Unau 0.1.0-beta.5</title>
-      <sparkle:version>6</sparkle:version>
-      <sparkle:shortVersionString>0.1.0-beta.5</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>preview</sparkle:channel>
-      <description>{
-  "zh-Hans": "少一点寻找，也少一点重新整理。\n\n• 设置中可自定义「展开或收起窗口架」与「打开常用工具」快捷键，默认留空，由你选择是否开启。\n• 重启后，空集合找到同名窗口时可以直接关联，保留原有顺序，也能从集合菜单撤销。\n• 窗口标题变了，集合编辑器会根据同应用的单个窗口或编辑器标题线索提供候选，说明推荐依据，由你确认后保存。",
-  "en": "Less searching, less reorganizing.\n\n• Set your own shortcuts in Settings to toggle the window shelf or open Quick Tools; both are unassigned until you choose to use them.\n• After a restart, reconnect matching windows directly from an empty collection, keeping their order and the option to undo from the collection menu.\n• When titles change, the collection editor suggests a window based on a shared editor-title fragment or the app having just one window open, shows why it was suggested, and leaves confirmation and saving to you.",
-  "ja": "探す手間も、整理し直す手間も、少し軽く。\n\n• 設定でウインドウ一覧の開閉とよく使うツールを開くショートカットを指定でき、必要になるまでは未設定のまま使えます。\n• 再起動後、空のコレクションで同じタイトルのウインドウが見つかれば、その場で再指定でき、元の順序を保ったままメニューから取り消すこともできます。\n• タイトルが変わった場合は、同じアプリで開いている唯一のウインドウやエディタのタイトルに共通する文字列から候補と理由を示し、確認してから保存できます。"
-}
-</description>
-      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.0-beta.5/unau-0.1.0-beta.5-macos-universal.dmg" length="10396785" type="application/octet-stream" sparkle:edSignature="9J5rFDtGvgQjl/DJw3DFPhwnGJ6knIz15uGjtbltBLvMeWQkOt2cpXSqzwgzWPY4OXc8ZWyrx0tBMjj6xGvMCw=="></enclosure>
-    </item>
-    <item>
-      <title>Unau 0.1.0-beta.4</title>
-      <sparkle:version>5</sparkle:version>
-      <sparkle:shortVersionString>0.1.0-beta.4</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>preview</sparkle:channel>
-      <description>{
-  "zh-Hans": "窗口、防休眠和清洁键盘，现在可以在一处找到。\n\n• 从窗口架的「工具」或右击菜单栏图标打开常用工具。自己选择固定哪些入口，顺序不会自动变化。\n• 防休眠可设置时长或手动结束，也可单独开启「同时保持屏幕常亮」。到时、睡眠或退出 Unau 后结束；重启应用不会自动恢复。\n• 清洁键盘先留 3 秒准备，到时自动恢复输入。鼠标长按退出按钮或长按 Esc 2 秒也可结束，随后回到原来的工作。\n• 窗口架支持滚轮、触控板和拖动连续浏览，保留各集合的位置。主动打开后可用方向键选择、空格预览、回车切换。\n• 快速滑动时保留已有图片，停稳后再取图。macOS 26 及以后，当前屏幕的放大预览改用单次截图，减少录屏状态反复切换。\n• 设置中可关闭「显示窗口画面预览」，保留应用图标与标题。系统隐私提示仍由 macOS 控制。\n• 如果防休眠未能结束，会保留提示并等待重试，调整选项不会掩盖未结束的状态。",
-  "en": "Windows, Keep Awake, and Clean Keyboard are now within reach in one place.\n\n• Open Tools from the window shelf or right-click the menu bar icon. Pin the tools you want; their order stays as you set it.\n• Keep Awake can run for a chosen duration or until you stop it. Keep the display on with a separate option. The session ends on expiry, sleep, or quitting Unau, and does not resume when the app restarts.\n• Clean Keyboard gives you 3 seconds to get ready and restores input when the timer ends. Hold the exit button or Esc for 2 seconds to finish early and return to your work.\n• Browse windows with a mouse wheel, trackpad, or drag; each collection keeps its position. After opening the shelf yourself, use arrow keys to select, Space to preview, and Return to switch.\n• Fast scrolling keeps existing images until browsing settles. On macOS 26 and later, enlarged previews of on-screen windows use a single screenshot to reduce recording-state changes.\n• Turn off window image previews in Settings to keep app icons and titles. macOS still controls its privacy indicators.\n• If Keep Awake cannot stop, its warning stays visible until cleanup succeeds; changing options cannot hide the unfinished session.",
-  "ja": "ウインドウ、防休眠、キーボードの清掃を、一か所から使えるようになりました。\n\n• ウインドウ一覧の「ツール」、またはメニューバーのアイコンを右クリックして開けます。よく使うツールを自分で固定でき、順番は自動で変わりません。\n• 防休眠は時間を指定するか、手動で終了できます。画面を点灯したままにする設定は別に選べます。時間切れ、スリープ、Unauの終了で解除され、アプリを再起動しても自動では再開しません。\n• キーボードの清掃は 3 秒の準備時間を設け、時間が来ると入力を戻します。終了ボタンかEscを 2 秒長押しして途中で終え、そのまま元の作業に戻れます。\n• マウスホイール、トラックパッド、ドラッグで続けて閲覧でき、コレクションごとの位置を保持します。一覧を手動で開いた後は、矢印キーで選択、スペースでプレビュー、Returnで切り替えられます。\n• 素早くスクロールしている間は既存の画像を保ち、操作が落ち着いてから取得します。macOS 26 以降では、現在の画面にあるウインドウの拡大プレビューを一度の撮影にし、録画状態の切り替えを減らしました。\n• 設定で画面プレビューをオフにすると、アプリのアイコンとタイトルを表示します。プライバシー表示は引き続きmacOSが管理します。\n• 防休眠を終了できなかった場合は、再試行で解除されるまで案内を残し、設定の変更で未終了の状態を隠さないようにしました。"
-}
-</description>
-      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.0-beta.4/unau-0.1.0-beta.4-macos-universal.dmg" length="10185211" type="application/octet-stream" sparkle:edSignature="05Kq6p0kHWGuLJVj6/1NUFWpiQWHBYZ5pl+1H5voJsGRBtFpf9DG5/o9r0+T+vRVHkkN51WIDEVwFjnok+8cDQ=="></enclosure>
-    </item>
-    <item>
-      <title>Unau 0.1.0-beta.2</title>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>0.1.0-beta.2</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <sparkle:channel>preview</sparkle:channel>
-      <description>{
-  "zh-Hans": "这一版整理了更新入口和日常操作。\n\n• 更新前可以预览变更内容，下载完成后再决定何时安装。\n• 撤销和重做集中到集合菜单，减少重复入口。\n• 设置中可以切换中文、英文和日语，默认中文。\n• 关于页可了解 Komoribe 的创作，支持完全自愿。\n• 应用、菜单栏和网站统一使用新的树懒图标。",
-  "en": "This beta brings in-app updates and simpler everyday controls.\n\n• Review changes before downloading, then choose when to install.\n• Undo and Redo now stay in the collection menu, with fewer duplicate controls.\n• Choose Chinese, English, or Japanese in Settings. Chinese is the default.\n• Learn about Komoribe’s work from About Unau. Support is entirely optional.\n• The app, menu bar, and website share the new sloth artwork.",
-  "ja": "今回のベータ版では、アップデート画面と日常の操作を整えました。\n\n• 更新内容を先に確認し、ダウンロード後は好きなタイミングでインストールできます。\n• 取り消しとやり直しをコレクションメニューにまとめ、重複する操作を減らしました。\n• 設定で中国語、英語、日本語を選べます。初期設定は中国語です。\n• 「Unauについて」からKomoribeの制作をご覧いただけます。ご支援は任意です。\n• アプリ、メニューバー、ウェブサイトを新しいナマケモノのアイコンに統一しました。"
-}
-</description>
-      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.0-beta.2/unau-0.1.0-beta.2-macos-universal.dmg" length="7931055" type="application/octet-stream" sparkle:edSignature="muLlibTya9wAoc2/PIhIw/wlMfRQeNDZlZG3an4mehREcfEYp8vD9yic0j6/hpJRpdmapL6I1foQRSIfvuweBQ=="></enclosure>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.0/unau-0.1.0-macos-universal.dmg" length="11141799" type="application/octet-stream" sparkle:edSignature="KF+P386n4EiNTx81sU8rE62Fa+doovJgsS8eHcxPtJKCuUDEQvBwIeofeppDkZy1/PO+/p74zszGqxFvo4oWBw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: XQ2GgX31Wh1hip7D9lnyCAia4TdvaP8GbkEv8aXo3MKYWD4kvA5je62f4nSxBu0x86r07TBM7YMZxNRijr4ABw==
-length: 18430
+edSignature: lHNfHc/MaqjldM31KqqapKsOWmN1GoCGj4vo3X9LtIUekrAvnNkk9fuZnrmADOhC90fUzBqZp7r+ha8l9jezDA==
+length: 4060
 -->
