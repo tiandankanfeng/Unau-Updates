@@ -4,6 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Unau updates</title>
     <item>
+      <title>Unau 0.1.0-beta.10</title>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <description>{
+  "zh-Hans": "一杯相伴，安心继续。\n\n• 防休眠换上了 Unau 的枝叶杯图标，在常用工具、工具列表、详情与运行中的会话里保持一致；开启时出现静止的热气，关闭后收起，浅色与深色外观都能清楚辨认。\n\n窗口切换、集合、快捷键与语言设置沿用原来的使用方式。\n\n测试版更新后，macOS 仍可能需要重新确认权限；可在设置中查看恢复步骤。",
+  "en": "A little company while you carry on.\n\n• Keep Awake now uses Unau’s leaf-cup icon throughout Quick Tools, the tool list, details, and running sessions, with still wisps of steam when active and a clear appearance in both light and dark mode.\n\nWindow switching, collections, shortcuts, and language settings work as before.\n\nAfter a beta update, macOS may still require you to allow access again. Recovery steps are available in Settings.",
+  "ja": "小さなカップと、作業の続きを。\n\n• スリープ防止のアイコンを、よく使うツール、ツール一覧、詳細、実行中のセッションで、葉を添えたUnauのカップに統一しました。有効な間だけ静止した湯気が現れ、ライトとダークのどちらの外観でも見分けられます。\n\nウインドウ切り替え、コレクション、ショートカット、言語設定は、これまでどおり使えます。\n\nベータ版の更新後は、macOSで再度アクセスを許可する必要がある場合があります。復旧手順は設定で確認できます。"
+}
+</description>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.0-beta.10/unau-0.1.0-beta.10-macos-universal.dmg" length="10540720" type="application/octet-stream" sparkle:edSignature="lw2mvt3qysZaIIrpZm19BVuTMJ0CnIP+tG9HpiSd+xxz3meqGqJRfgXOdeHK7Dw+W7MtVDkJUxq/LAeA6o+qDQ=="></enclosure>
+    </item>
+    <item>
       <title>Unau 0.1.0-beta.8</title>
       <sparkle:version>9</sparkle:version>
       <sparkle:shortVersionString>0.1.0-beta.8</sparkle:shortVersionString>
@@ -89,6 +103,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ZBWwm9xbpaASCTpHHnnFUUQllZojZEnk1wlp5jluzOZoAaSZOB1wV6prLJTWdUL6twywAU34FgLcruhE+5ZTCg==
-length: 16203
+edSignature: XQ2GgX31Wh1hip7D9lnyCAia4TdvaP8GbkEv8aXo3MKYWD4kvA5je62f4nSxBu0x86r07TBM7YMZxNRijr4ABw==
+length: 18430
 -->
