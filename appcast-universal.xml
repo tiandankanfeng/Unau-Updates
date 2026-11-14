@@ -4,6 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Unau updates</title>
     <item>
+      <title>Unau 0.1.1-beta.3</title>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.1.1-beta.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <description>{
+  "zh-Hans": "• 还没授权，也可以先浏览窗口架。用别名、拼音或按应用叠放找到目标，也能直接回到上一扇窗口。需要对照时，可将预览留在手边。\n• 接回外屏后，先核对清单，再将选中的窗口放回原来的位置和大小。开始 7 天试用不会移动窗口；归位后可撤销。\n• 把相关窗口按规则收进集合。从集合里打开已绑定的项目、把两扇窗口并排，或记住当前摆放。\n• 常用面板只留防休眠和清洁键盘。枝叶杯可以跟随指定的本地进程；低电量时结束防休眠，任务仍由原应用运行。演示准备、暂离工位、后台守望和外接盘检查都在「全部工具」。\n\n本测试版尚未取得 Apple 公证。更新后，macOS 可能需要你重新确认辅助功能或屏幕录制权限。",
+  "en": "• Browse the shelf before granting access. Find a window by alias or pinyin, group windows by app, or jump back to the previous window. Pin a still preview for reference.\n• When a display reconnects, review the list and restore the windows you select to their original positions and sizes. Starting the 7-day trial does not move them. You can undo a restore.\n• Use rules to collect related windows. Open linked project items, place two windows side by side, or save a layout.\n• Quick Tools now has two rows: Keep Awake and Clean Keyboard. Keep Awake can follow a local process and release its sleep hold on low battery without stopping the task. Find presentation, away, watch and external drive tools under All Tools.\n\nApple has not notarized this beta. After updating, macOS may ask you to confirm Accessibility or Screen Recording access again.",
+  "ja": "• アクセシビリティを許可する前でも、シェルフでウインドウを探せます。別名やピンインで絞り込んだり、アプリごとにまとめたり、直前のウインドウに戻ったりできます。プレビューは参照用に手元に残せます。\n• 外部ディスプレイを接続し直したら、一覧を確認して、選んだウインドウだけを元の位置とサイズに戻せます。7日間の試用を始めてもウインドウは動きません。元に戻す操作も取り消せます。\n• ルールで関連するウインドウをまとめ、関連付けた項目を開いたり、2つのウインドウを並べたり、今の配置を保存したりできます。\n• クイックツールはスリープ防止とキーボード清掃の2項目になりました。スリープ防止は指定したプロセスに合わせて動作し、バッテリー残量が少なくなるとタスクを止めずに解除されます。プレゼン準備、離席、見守り、外部ディスクの確認はツール一覧から利用できます。\n\nこのベータ版は Apple の公証を受けていません。更新後、アクセシビリティまたは画面収録の許可を改めて求められる場合があります。"
+}
+</description>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.1-beta.3/unau-0.1.1-beta.3-macos-universal.dmg" length="12680819" type="application/octet-stream" sparkle:edSignature="FHzAzLrosOxWf2kaEClRt0f1Ep71JGpeyVoLniwBgwlxQJWnfU/jrDEVaIVJnI7txL151E2NfQ+MbbpCbTBAAg=="></enclosure>
+    </item>
+    <item>
       <title>Unau 0.1.1-beta.2</title>
       <sparkle:version>14</sparkle:version>
       <sparkle:shortVersionString>0.1.1-beta.2</sparkle:shortVersionString>
@@ -46,6 +60,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: vCUyhYh5k7LAZKKWFKXl2Mgdgui6AraODgtYV/+AgPmfgBeirw2Y33x0Kw0fiSrbyazKceeu6GF9wn1hhe9BCg==
-length: 10159
+edSignature: OBUBw3MeocDk5WZI/Jwydx8bQ0N3DIXysxJQCGSZbEEmYEB9XJ5b26lEtpIiHJGSTphMzaKusf5u34idl/91BQ==
+length: 13853
 -->
