@@ -4,6 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Unau updates</title>
     <item>
+      <title>Unau 0.1.1-beta.1</title>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.1.1-beta.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <description>{
+  "zh-Hans": "• 在窗口卡片上右键选择「移到此屏幕」，可把这一扇普通窗口移到窗口架所在的显示器。应用短暂繁忙时，Unau 会等它响应；若仍然没有响应，窗口留在原处。\n• 切回跨屏或全屏窗口后，会短暂标出已切换的窗口。重启后重新关联集合时，可以先核对候选窗口和所在屏幕。\n• 演示时可让当前屏幕保持亮起，并让窗口架只看这块屏。结束后恢复原筛选，保留你先前开启的防休眠。还可在设置里为「定位指针」选择快捷键。\n\n本测试版尚未取得 Apple 公证。安装后，macOS 可能需要你重新确认辅助功能或屏幕录制权限。",
+  "en": "• Right-click a window card and choose Move to This Display to bring that window to the display with the shelf. Unau waits briefly for busy apps. If the app stays unresponsive, the window stays where it was.\n• A brief outline shows which window was selected across displays or full-screen Spaces. When reconnecting a collection after a restart, you can review the matching windows and their displays.\n• During a presentation, keep the display awake and limit the shelf to that screen. Ending the session restores the previous filter and preserves an existing Keep Awake session. You can also assign a shortcut to locate the pointer.\n\nThis beta is not notarized by Apple. macOS may ask you to confirm Accessibility or Screen Recording access again after installation.",
+  "ja": "• ウインドウカードを右クリックし、移動先を選ぶと、そのウインドウをシェルフのあるディスプレイへ移せます。アプリの応答が遅いときは少し待ち、応答が戻らない場合は元の場所に残します。\n• 別のディスプレイやフルスクリーンのウインドウに切り替えると、選んだウインドウに短く枠が表示されます。再起動後にコレクションを再接続するときは、候補とその表示先を確認できます。\n• プレゼンテーション中は画面を点灯したまま、そのディスプレイのウインドウだけを表示できます。終了すると元の絞り込みに戻り、先に有効にしたスリープ防止は続きます。ポインタの位置を示すショートカットも設定できます。\n\nこのベータ版は Apple の公証を受けていません。インストール後、macOS でアクセシビリティや画面収録の許可を再確認する必要がある場合があります。"
+}
+</description>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.1-beta.1/unau-0.1.1-beta.1-macos-universal.dmg" length="11371138" type="application/octet-stream" sparkle:edSignature="9nGjaixo5K3IwmukfR62C+58bJUWwJF1eqmikzh5mB84nUsVhBsmcCjvKaoqqXdDw303lK41D6L6N+8fOK/kBg=="></enclosure>
+    </item>
+    <item>
       <title>Unau 0.1.0</title>
       <sparkle:version>12</sparkle:version>
       <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -18,6 +32,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: lHNfHc/MaqjldM31KqqapKsOWmN1GoCGj4vo3X9LtIUekrAvnNkk9fuZnrmADOhC90fUzBqZp7r+ha8l9jezDA==
-length: 4060
+edSignature: x/4Xuq/t309p686/6PPGvpI6UjhkR9GrFj0quN0mo6V1mozox9QPFBaH0dy9+mb9a47MapTAjXQmfw4PrIDDCg==
+length: 7282
 -->
