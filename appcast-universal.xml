@@ -4,6 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Unau updates</title>
     <item>
+      <title>Unau 0.1.1-beta.2</title>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.1.1-beta.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <description>{
+  "zh-Hans": "• 接回外屏后，打开窗口架可以查看哪些窗口还留在别的屏幕。勾选后再放回原屏幕，也可以撤销。修复了拔线时丢失原屏记录、接回后没有归位提示的问题。\n• 基础切窗可以直接使用。用键盘打开窗口架，输入应用名、窗口标题或拼音即可筛选。\n• 第一次使用外屏归位时，可以先查看窗口清单，再决定是否开始 7 天试用。开始试用后，仍需你确认才会移动窗口。\n\n本测试版尚未取得 Apple 公证。更新后，macOS 可能需要你重新确认辅助功能或屏幕录制权限。",
+  "en": "• After reconnecting a display, open the shelf to review windows still on another screen. Choose which ones to move back, with the option to undo. Fixed a case where unplugging the display erased the previous location and no windows were offered.\n• You can switch windows before starting a trial. Open the shelf with the keyboard and type an app name, window title or pinyin to filter.\n• Review the list before starting a 7-day trial of display restoration. Windows move only when you confirm.\n\nApple has not notarized this beta. After updating, macOS may ask you to confirm Accessibility or Screen Recording access again.",
+  "ja": "• 外部ディスプレイを接続し直したら、シェルフで別の画面に残っているウインドウを確認できます。選んだものだけを元の画面に戻せます。移動は取り消せます。切断時に元の画面の記録が失われ、候補が表示されない問題を修正しました。\n• ウインドウの切り替えは試用を始める前から使えます。キーボードでシェルフを開き、アプリ名、ウインドウのタイトル、またはピンインを入力して絞り込めます。\n• 初めて元の画面に戻すときは、候補を見てから7日間の試用を始めるか選べます。移動するのは、内容を確認して実行したときだけです。\n\nこのベータ版は Apple の公証を受けていません。更新後に macOS でアクセシビリティや画面収録の許可を改めて求められる場合があります。"
+}
+</description>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.1-beta.2/unau-0.1.1-beta.2-macos-universal.dmg" length="11783646" type="application/octet-stream" sparkle:edSignature="s0GNEPIdWwcJIbKQpxeJh+o4J86+zWGy9HQrHS88FJhEMNmPijpqc/mfcp6iBjSLXjdy4MvLiJUo9sp+QJ+iAA=="></enclosure>
+    </item>
+    <item>
       <title>Unau 0.1.1-beta.1</title>
       <sparkle:version>13</sparkle:version>
       <sparkle:shortVersionString>0.1.1-beta.1</sparkle:shortVersionString>
@@ -32,6 +46,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: x/4Xuq/t309p686/6PPGvpI6UjhkR9GrFj0quN0mo6V1mozox9QPFBaH0dy9+mb9a47MapTAjXQmfw4PrIDDCg==
-length: 7282
+edSignature: vCUyhYh5k7LAZKKWFKXl2Mgdgui6AraODgtYV/+AgPmfgBeirw2Y33x0Kw0fiSrbyazKceeu6GF9wn1hhe9BCg==
+length: 10159
 -->
