@@ -4,6 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Unau updates</title>
     <item>
+      <title>Unau 0.1.1-beta.5</title>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.1.1-beta.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <description>{
+  "zh-Hans": "• 三扇窗口同名时，把鼠标移到要改名的那张卡片，点铅笔起个短名。另两扇保留原来的编号；「最近三扇」也会显示你起的名字。\n• 「最近三扇」和「回上一扇」的首次提示各显示一次。打开「最近三扇」，可从菜单底部设置全局快捷键。以后在任意应用都能呼出菜单，按 1、2 或 3 切窗。\n• 枝叶杯会说明屏幕为何保持常亮。演示结束后，个人防休眠回到先前的状态，沿用原定结束时间。\n• 接回工位屏幕时，优先按这次拔线前的摆放提供归位清单。选中哪些窗口，就只放回哪些。\n• 终端任务连接和守望工具已移除。原有任务可直接在终端运行。\n\n本测试版尚未取得 Apple 公证。更新后，macOS 可能需要你重新确认辅助功能或屏幕录制权限。",
+  "en": "• When windows share a title, hover over one card and use the pencil to name it. The other cards keep their numbers. Your short name also appears in Recent Windows.\n• Recent Windows and Previous Window each offer their own one-time hint. Set a global shortcut at the bottom of the Recent Windows menu. Open it from any app and press 1, 2, or 3 to switch.\n• Keep Awake shows why the displays are staying on. Ending a presentation restores your personal setting and keeps the original timer deadline.\n• When you reconnect a display, Unau first offers the layout from just before you disconnected. Only the windows you select are moved.\n• Terminal task connections and task watching have been retired. You can run your tasks directly in the terminal.\n\nApple has not notarized this beta. After updating, macOS may ask you to confirm Accessibility or Screen Recording access again.",
+  "ja": "• 同じタイトルのウインドウには、カードにポインタを置いて鉛筆から短い名前を付けられます。ほかのカードの番号はそのままです。付けた名前は最近のウインドウにも表示されます。\n• 最近のウインドウと、前のウインドウに戻る操作のヒントは、それぞれ一度だけ表示されます。最近のウインドウのメニュー下部でショートカットを設定すると、どのアプリからでも呼び出して 1・2・3 キーで切り替えられます。\n• スリープ防止の欄に、画面の点灯を続ける理由が表示されます。プレゼンを終了すると、個人の設定に戻り、タイマーは元の終了時刻まで続きます。\n• 外部ディスプレイをつなぎ直すと、取り外す直前の配置が優先されます。選んだウインドウだけを元の位置に戻せます。\n• ターミナルのタスク連携と監視機能を終了しました。タスクはターミナルで直接実行できます。\n\nこのベータ版は Apple の公証を受けていません。更新後にアクセシビリティまたは画面収録の許可を改めて求められる場合があります。"
+}
+</description>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.1-beta.5/unau-0.1.1-beta.5-macos-universal.dmg" length="13006825" type="application/octet-stream" sparkle:edSignature="WPnLGRuGT+SKVza4AQ4pm1pGNfdz32UfuOZuZuuFIM5gdOkLpBAowTEjcOb/XZL6jtkd51gFyaSTla229x8mBA=="></enclosure>
+    </item>
+    <item>
       <title>Unau 0.1.1-beta.4</title>
       <sparkle:version>16</sparkle:version>
       <sparkle:shortVersionString>0.1.1-beta.4</sparkle:shortVersionString>
@@ -74,6 +88,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: XpY51j9MUFrbSygwFUfmMunSeq0hx5K9T5zGgLvXlTEUEo2rHnvclLXzYWitDJ2gN1xwjcGyR488Z5FWHvaoDA==
-length: 16938
+edSignature: L+FYSb/H89qUfWZsJNJTM2dD/DsUK1MkUYaW6Ot966/z4oIhLcok4n+luZWHthk/DGb0jh+4q3cAwuL2v5uzCQ==
+length: 20652
 -->
