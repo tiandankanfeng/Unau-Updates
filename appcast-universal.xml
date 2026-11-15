@@ -4,6 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Unau updates</title>
     <item>
+      <title>Unau 0.1.1-beta.4</title>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.1.1-beta.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <description>{
+  "zh-Hans": "• 在终端窗口的卡片菜单里选择「连接本地任务…」，按提示启动 Claude Code 或 Codex。项目需要你确认时，菜单栏会留下一个小点；点项目名，就能回到发出请求的那扇窗口。批准仍在终端完成。\n• 枝叶杯可以跟随多个已连接的任务。结束防休眠不会中断任务。\n• 给项目目录起个短名，也能按目录把窗口收进集合。「最近三扇」方便在编辑器、终端和浏览器之间往返。\n• 在「全部工具」中固定和排列最多四个常用入口。\n\n本测试版尚未取得 Apple 公证。更新后，macOS 可能需要你重新确认辅助功能或屏幕录制权限。",
+  "en": "• Choose “Connect a local task…” from a terminal window’s card and follow the instructions to start Claude Code or Codex. When a project needs confirmation, a small dot appears in the menu bar. Select the project to return to the exact window. Approvals stay in your terminal.\n• Keep Awake can follow several connected tasks. Ending Keep Awake leaves the tasks running.\n• Give a project folder a short name or group windows by folder. Recent windows lets you jump between your editor, terminal and browser.\n• Pin and arrange up to four shortcuts from All Tools.\n\nApple has not notarized this beta. After updating, macOS may ask you to confirm Accessibility or Screen Recording access again.",
+  "ja": "• ターミナルのウインドウカードからローカルタスクを接続し、案内に沿って Claude Code または Codex を起動します。確認が必要になるとメニューバーに小さな印が付きます。プロジェクト名を選ぶと、確認を求めているウインドウに戻れます。承認はターミナルで行います。\n• スリープ防止を複数のタスクに連動させられます。スリープ防止を解除してもタスクは続きます。\n• プロジェクトフォルダに短い名前を付けたり、フォルダごとにウインドウをまとめたりできます。直近の3つのウインドウにすばやく戻れます。\n• ツール一覧からよく使う項目を4つまで固定し、並べ替えられます。\n\nこのベータ版は Apple の公証を受けていません。更新後、アクセシビリティまたは画面収録の許可を改めて求められる場合があります。"
+}
+</description>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.1-beta.4/unau-0.1.1-beta.4-macos-universal.dmg" length="13220077" type="application/octet-stream" sparkle:edSignature="gPbiHeYXYnxDijEaJyDWWXX53fnj2zziCs7H0Ep+bz2vsXXdtOQe/GStxd1Q2g/WC94kOOFEuUKkU+8VTvUeBQ=="></enclosure>
+    </item>
+    <item>
       <title>Unau 0.1.1-beta.3</title>
       <sparkle:version>15</sparkle:version>
       <sparkle:shortVersionString>0.1.1-beta.3</sparkle:shortVersionString>
@@ -60,6 +74,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: OBUBw3MeocDk5WZI/Jwydx8bQ0N3DIXysxJQCGSZbEEmYEB9XJ5b26lEtpIiHJGSTphMzaKusf5u34idl/91BQ==
-length: 13853
+edSignature: XpY51j9MUFrbSygwFUfmMunSeq0hx5K9T5zGgLvXlTEUEo2rHnvclLXzYWitDJ2gN1xwjcGyR488Z5FWHvaoDA==
+length: 16938
 -->
