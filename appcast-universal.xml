@@ -4,6 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Unau updates</title>
     <item>
+      <title>Unau 0.1.1-beta.7</title>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.1.1-beta.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <description>{
+  "zh-Hans": "• 切窗抵达感知全面升级：切换窗口时在目标窗上显示高对比双层绿框、四角定位折角、轻淡底晕与顶部浮动标题胶囊；点击已聚焦的窗口时明确提示「已在此窗口」，不再有没点上的错觉。\n• 跨屏切窗新增「出发屏方向指引」：切向其他显示器时，会在当前注视屏幕的对应边缘短暂显示方向胶囊（左 / 右 / 上 / 下屏与窗口名），同时在目标屏高亮抵达光框。\n• 适配台前调度（Stage Manager）：激活侧栏窗口时光框实时追踪滑入落点；侧栏中被系统 3D 倾斜渲染的缩略图会自动拉平并裁去多余透明边，同时优先保留活跃时的平面高清缓存。\n• 多屏位置一目了然：当前屏窗口卡片左下角显示品牌绿「● 当前屏」标识，其他屏幕自动按物理排列显示「左屏 / 右屏 / 上屏 / 下屏 · 型号」，筛选与送屏菜单同步显示，无需记忆外屏编号。\n\n本测试版尚未取得 Apple 公证。更新后，macOS 可能需要你重新确认辅助功能或屏幕录制权限。",
+  "en": "• Stronger arrival feedback when switching windows: target windows now show a high-contrast double green frame, corner brackets, a subtle wash, and a top arrival pill. Re-selecting an already-focused window clearly shows “Already here” so you always know where focus is.\n• Cross-display directional cue: switching to another monitor briefly displays a click-through directional pill along the matching edge of the screen you are looking at while highlighting the target window.\n• Stage Manager improvements: the arrival frame tracks windows sliding out of the Stage Manager strip onto the main stage; 3D-tilted side-strip thumbnails are automatically straightened and trimmed, while clean flat caches are preserved.\n• Instant display clarity: cards on the active shelf display show a green “This screen” indicator, and other displays automatically show their physical direction (Left / Right / Top / Bottom) across cards, display filters, and Send-to-Display menus.\n\nApple has not notarized this beta. After updating, macOS may ask you to confirm Accessibility or Screen Recording access again.",
+  "ja": "• ウインドウ切替時の到達フィードバックを強化しました。対象ウインドウに高コントラストの二重緑枠、四隅の角マーク、淡いハイライト、上部の到着バッジを表示し、すでにフォーカス中のウインドウを選んだ場合は「表示中のウインドウ」と明示します。\n• 画面をまたぐ切替に方向ガイドを追加しました。別のディスプレイへ切り替える際、今見ている画面の対応する端に方向バッジを表示し、移動先のウインドウも同時に強調します。\n• ステージマネージャへの対応を改善しました。サイドバーから移動するウインドウに枠が追従し、3D で傾いたサムネイルを自動で水平補正・余白トリミングしたうえで、平面キャッシュを優先保持します。\n• マルチディスプレイの視認性を向上しました。現在の画面のカードには緑の「現在の画面」を表示し、ほかの画面は物理配置に合わせて「左画面 / 右画面 / 上画面 / 下画面」をカードやメニューに表示します。\n\nこのベータ版は Apple の公証を受けていません。更新後にアクセシビリティまたは画面収録の許可を改めて求められる場合があります。"
+}
+</description>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.1-beta.7/unau-0.1.1-beta.7-macos-universal.dmg" length="14070493" type="application/octet-stream" sparkle:edSignature="Qqe7iex1YGKM7NF69rl9d5e7EYTx60Aul3iBzMwWsyef2f4DtaVY7ou0yGXSuSB/ird4NNrkJYZvEgL4YR/5Cg=="></enclosure>
+    </item>
+    <item>
       <title>Unau 0.1.1-beta.6</title>
       <sparkle:version>18</sparkle:version>
       <sparkle:shortVersionString>0.1.1-beta.6</sparkle:shortVersionString>
@@ -102,6 +116,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: oNBVYPk/1zxpAQ6z+zp7mHaSJyOgTbU2SGMhCa5uC9AJ1dJmnggM70orfIR3kN1y0lhDxQX99tXfUn3jjkahAQ==
-length: 25205
+edSignature: kiBeDtvx2pkbGIRWdqd1gqy+BXNqysonpZ47Otb/OPjzdt3rubhwWCG1oASQ6kxV6JPYdgbml/nNc4XnxWNjAw==
+length: 29476
 -->
