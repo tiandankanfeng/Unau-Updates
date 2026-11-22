@@ -4,6 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Unau updates</title>
     <item>
+      <title>Unau 0.1.1-beta.6</title>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.1.1-beta.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <description>{
+  "zh-Hans": "• 参考浮签支持最多同时钉 3 张，可按需开启每 3 秒刷新，画面从变动转为静止时以细绿边静默提示，并支持一键复制当前画面。\n• 新增「随手窗」：卡片右键标记常用窗口，设置快捷键后可一键召唤到当前屏幕侧边或居中位置，再按送回原屏并归还焦点。\n• 「左右并排」升级为主次工作对，支持 65/35、50/50、35/65 比例切换、互换左右、成对带回前台与一步撤销。\n• 集合支持最多 16 条 OR 规则与内置场景模板，新增本组置前、聚拢到此屏与组内轮转；卡片新增送到其他屏幕、四项快速摆放与只留当前这扇。\n• 新增压暗副屏、主屏专注衬底与闲置窗口清场；支持给显示器起别名，并可开启跨屏切窗时带走鼠标指针。\n• 防休眠新增拔掉电源自动结束与熄屏顺手静音；演示准备新增隐藏缩略图与临时隐藏敏感应用；支持本地配置 JSON 导入与导出。\n\n本测试版尚未取得 Apple 公证。更新后，macOS 可能需要你重新确认辅助功能或屏幕录制权限。",
+  "en": "• Reference slips now support up to 3 floating snapshots at once, with optional 3-second refresh, a quiet green border when motion settles, and one-click image copy.\n• Companion Window lets you mark a frequent window and summon it to the side or center of the current display with a shortcut, then send it back and restore focus.\n• Side-by-side pairs support 65/35, 50/50, and 35/65 ratios, left/right swap, bringing the pair forward together, and one-step undo.\n• Collections now support up to 16 OR rules with starter templates, plus bring-forward, gather-to-display, and cycle-in-collection actions. Cards add Send to Another Display, 4 quick placements, and Keep Only This Window.\n• Added Dim Secondary Displays, Focus Backdrop, Idle Window Cleanup, custom display aliases, and optional pointer follow when switching across displays.\n• Keep Awake adds stop-on-unplug and mute-while-screen-off; Presentation Setup adds thumbnail hiding and temporary app hiding; local JSON backup export/import is available in the menu.\n\nApple has not notarized this beta. After updating, macOS may ask you to confirm Accessibility or Screen Recording access again.",
+  "ja": "• 参照スリップは最大 3 枚まで同時に固定できるようになり、任意で 3 秒ごとの更新、変化が落ち着いた際の細い緑枠表示、ワンクリック画像コピーに対応しました。\n• 「手元ウインドウ」を追加しました。よく使うウインドウを登録し、ショートカットで現在の画面の端または中央に呼び出し、もう一度押すと元の位置へ戻してフォーカスを返します。\n• 左右並べは 65/35・50/50・35/65 の比率切替、左右入替、ペアで前面へ戻す操作、1 ステップ取り消しに対応しました。\n• コレクションは最大 16 件の OR ルールとテンプレートに対応し、前面表示・現在の画面へ集める・グループ内切替を追加。カードから別画面へ送る、4 種の配置、このウインドウだけ残す操作も使えます。\n• サブ画面の減光、フォーカス背景、放置ウインドウ整理、ディスプレイ別名、画面またぎ切替時のポインタ追従を追加しました。\n• スリープ防止に電源切断時の自動終了と画面消灯中のミュートを追加。プレゼン準備にサムネイル非表示とアプリの一時非表示を追加し、ローカル JSON 設定の書き出し・読み込みにも対応しました。\n\nこのベータ版は Apple の公証を受けていません。更新後にアクセシビリティまたは画面収録の許可を改めて求められる場合があります。"
+}
+</description>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.1-beta.6/unau-0.1.1-beta.6-macos-universal.dmg" length="13938065" type="application/octet-stream" sparkle:edSignature="cZvWq3DlxstZbMIkqxDlgBdYKAnCZOk2obWoYiHG7ahujqYqnkvfGo2eJqLR5tYwsmQrG6wKnlaMm0aoIhw0AA=="></enclosure>
+    </item>
+    <item>
       <title>Unau 0.1.1-beta.5</title>
       <sparkle:version>17</sparkle:version>
       <sparkle:shortVersionString>0.1.1-beta.5</sparkle:shortVersionString>
@@ -88,6 +102,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: L+FYSb/H89qUfWZsJNJTM2dD/DsUK1MkUYaW6Ot966/z4oIhLcok4n+luZWHthk/DGb0jh+4q3cAwuL2v5uzCQ==
-length: 20652
+edSignature: oNBVYPk/1zxpAQ6z+zp7mHaSJyOgTbU2SGMhCa5uC9AJ1dJmnggM70orfIR3kN1y0lhDxQX99tXfUn3jjkahAQ==
+length: 25205
 -->
