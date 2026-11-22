@@ -4,6 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Unau updates</title>
     <item>
+      <title>Unau 0.1.1-beta.8</title>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.1.1-beta.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <description>{
+  "zh-Hans": "• 新增当前前台窗口的 7 项可选全局快捷摆放（贴左、贴右、铺满、居中阅读、送到下一屏、两屏当前窗口互换、撤销上次摆放），以及跨全屏与台前调度的「当前应用窗口速切」快捷键，默认留空并在设置中折叠收纳。\n• 窗口架筛选与整理更顺手：支持在「⋯」点「筛选窗口…」（或按 /）搜窗、显示器菜单 1 键「仅看当前屏」、集合菜单可选「按最近访问排序」，以及选中卡片按 ⌘W 或鼠标中键快捷请求关闭。\n• 参考浮签新增「半透明」模式（鼠标移开自动半透明不挡代码，移入恢复清晰）；大预览在宽屏上扩大至 680×440 并直出「复制画面」与「移到此屏幕」；卡片右键第一层新增「钉作参考」，全屏窗支持直接「退出全屏」。\n• 存量交互收口与修复：随手窗停靠位置设置即时生效并支持重启后无歧义自动接回；并排条补上「结束配对（×）」；副屏压暗接入三档暗度并跟随鼠标激活自动切屏；暂收聚焦与展开应用叠放统一在挂线单槽位提示一键恢复；新建集合内置规则模板折叠区，设置页收纳显示别名、副屏暗度与本地 JSON 备份。\n\n本测试版尚未取得 Apple 公证。更新后，macOS 可能需要你重新确认辅助功能或屏幕录制权限。",
+  "en": "• Added 7 optional global shortcuts for the focused window (left/right half, fill, center reading, send to next display, swap active windows across displays, undo arrangement) plus a cross-Space “Switch windows of current app” shortcut, grouped cleanly under a collapsible section in Settings.\n• Faster shelf filtering and cleanup: click “Filter windows…” in More (or press /) even when opening the shelf by mouse, toggle “This screen only” from the display menu, optionally sort by recent use, and close cards with ⌘W or middle-click.\n• Reference slips add a translucent watch mode (fades to 52% when the pointer leaves, restores on hover); enlarged previews scale up to 680×440 on wide monitors with direct “Copy image” and “Move to this screen” actions; cards expose “Pin as reference” at top level and “Exit full screen” on full-screen windows.\n• Interaction polish and fixes: Companion Window placement updates live and persists an unambiguous hint across relaunches; active pair bar adds a dismiss (×) button; secondary display dimming exposes three dim levels and follows mouse-activated displays; tucked windows and expanded app stacks show a single quiet restore pill; collection editor includes a collapsible rules/templates section and Settings consolidates display aliases, dim level and local JSON backup.\n\nApple has not notarized this beta. After updating, macOS may ask you to confirm Accessibility or Screen Recording access again.",
+  "ja": "• アクティブウインドウ向けの 7 種の任意ショートカット（左半分・右半分・最大化・中央配置・次の画面へ送る・2 画面入れ替え・配置の取り消し）と、Space やステージマネージャをまたぐ「現在のアプリのウインドウ切り替え」を追加しました（設定内の折りたたみ欄に整理）。\n• シェルフの絞り込みと整理を強化：マウスで開いた場合も「⋯」から「ウインドウを絞り込む…」（または / キー）で検索でき、ディスプレイメニュー最上段に「現在の画面のみ」、コレクションメニューに「最近使った順に並べる」、カード上で ⌘W または中クリックによる閉じる操作を追加しました。\n• 参照スリップに半透明モード（ポインタを離すと半透明、戻すと鮮明）を追加。拡大プレビューはワイド画面で最大 680×440 に広がり「画像をコピー」「この画面へ移動」を直接実行できます。カード右クリック第 1 階層に「参照として固定」、フルスクリーンウインドウに「フルスクリーンを解除」を追加しました。\n• 既存操作の仕上げと修正：手元ウインドウの配置設定が即時反映され再起動後も曖昧さなく再接続、ペアバーに終了（×）ボタンを追加、サブ画面の暗さ 3 段階設定とアクティブ画面追従に対応、一時収納や展開中アプリを単一ピルからワンクリック復元、コレクション作成画面にルール／テンプレート欄、設定画面に別名・暗さ・ローカル JSON バックアップを統合しました。\n\nこのベータ版は Apple の公証を受けていません。更新後にアクセシビリティまたは画面収録の許可を改めて求められる場合があります。"
+}
+</description>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.1-beta.8/unau-0.1.1-beta.8-macos-universal.dmg" length="14462989" type="application/octet-stream" sparkle:edSignature="WKrf0JNNdT/u2Aca0HyK9dX70+E9hh4fqEC6kZIdbJMzUdxLGrvnJ4Tx3BzTAy+dyrnnf8njX9TRtcqGHTH2Ag=="></enclosure>
+    </item>
+    <item>
       <title>Unau 0.1.1-beta.7</title>
       <sparkle:version>19</sparkle:version>
       <sparkle:shortVersionString>0.1.1-beta.7</sparkle:shortVersionString>
@@ -116,6 +130,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: kiBeDtvx2pkbGIRWdqd1gqy+BXNqysonpZ47Otb/OPjzdt3rubhwWCG1oASQ6kxV6JPYdgbml/nNc4XnxWNjAw==
-length: 29476
+edSignature: Ga+Roql7Z6b+OoE5H7HvtezcsvD5R50a+jnOM08yEr9zhHBCgStnkEl2SI1TEHowJDX6dz+UvwQ5+EgUDKTTAg==
+length: 34984
 -->
