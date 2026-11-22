@@ -4,6 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Unau updates</title>
     <item>
+      <title>Unau 0.1.1</title>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description>{
+  "zh-Hans": "• 多屏归位与切窗抵达：接回外接屏后按确认归位窗口并支持撤销；多屏卡片标出「当前屏」及左/右/上/下物理方位；切窗抵达显示双层品牌绿光框、标题胶囊与跨屏方向提示，台前调度倾斜缩略图自动透视拉平。\n• 并排、随手窗与参考浮签：支持 65/35、50/50、35/65 左右主次并排、互换与成对置前；新增随手窗一键召唤与送回；支持最多 3 张参考浮签，可按需每 3 秒刷新、切换半透明不遮挡模式并复制画面。\n• 高效切窗与集合整理：开放基础窗口架、键入或点击筛选、最近三扇与回上一扇；支持多规则集合与场景模板、组内轮转与聚拢、单窗起短名、全屏窗直接退出全屏，以及可选的前台窗快捷摆放与跨 Space 同应用速切。\n• 专注、防休眠与界面打磨：新增副屏三档压暗（跟随鼠标激活屏）、主屏专注衬底、暂收聚焦与单槽位一键恢复；防休眠支持拔电自动停与熄屏静音，演示准备支持藏缩略图与按应用藏窗，设置页支持本地 JSON 导入导出；全面打磨挂枝、枝叶、卡扣与悬浮工具条质感。\n\n本正式版目前尚未取得 Apple 公证。更新后，macOS 可能需要你重新确认辅助功能或屏幕录制权限；现有的试用或正式授权会保留在钥匙串中。",
+  "en": "• Multi-display return &amp; arrival clarity: restore windows by confirmation (with undo) when reconnecting external displays; cards label the active screen and physical direction; switching highlights the arrived window with a layered green halo, floating title capsule and cross-display direction cue, while Stage Manager tilted thumbnails are perspective-straightened.\n• Asymmetric pairing, Companion Window &amp; Reference Slips: pair two windows at 65/35, 50/50 or 35/65 with swap and raise-together; summon and send back a pinned Companion Window on demand; pin up to 3 Reference Slips with optional 3-second refresh, translucent watch mode and one-click copy.\n• Faster switching &amp; collections: browse, filter by typing or clicking, jump across recent three or previous window, name duplicate windows, exit full screen directly, organize multi-rule collections with templates, and optionally bind focused-window arrangement or cross-Space same-app switching shortcuts.\n• Quiet focus, Keep Awake &amp; visual craft: three-level secondary display dimming (following active display), primary focus backdrop, tuck-others with a single restore pill, Keep Awake power/mute guards, presentation prep, local JSON backup, and refined botanical branch, leaves, clasps and floating pill visuals.\n\nThis release is ad-hoc signed and not Apple-notarized. After updating, macOS may ask you to confirm Accessibility or Screen Recording access again; your existing trial or license remains in Keychain.",
+  "ja": "• マルチディスプレイ復帰と到着フィードバック：外部ディスプレイ再接続時に確認してから元の配置へ戻せ（取り消し対応）、カードに現在の画面と物理方位を表示。切り替え時は2層グリーン枠・タイトルカプセル・画面間ガイドで到着を示し、ステージマネージャの斜めサムネイルも自動で正面補正します。\n• 主従ペア・手元ウインドウ・参照スリップ：65/35・50/50・35/65 の左右ペア配置と入れ替え／同時前面化、手元ウインドウのワンタッチ呼び出し・送り返し、最大 3 枚の参照スリップ（任意 3 秒更新・半透明モード・画像コピー）を追加しました。\n• 素早い切り替えとコレクション整理：検索絞り込み、直近 3 枚／直前へ戻る、同名ウインドウへの短い別名、フルスクリーン解除、複数ルールとテンプレートによるコレクション整理、任意のアクティブウインドウ配置や Space 横断の同アプリ切り替えに対応しました。\n• 集中支援・スリープ防止・造形磨き込み：サブ画面 3 段階の暗転（アクティブ画面追従）、メイン画面フォーカス下地、一時収納と単一ピル復元、電源連動スリープ防止、プレゼン準備、ローカル JSON バックアップを追加し、枝・葉・留め具・ツールバーの質感も磨き上げました。\n\nこの正式版はアドホック署名であり、Apple の公証は受けていません。更新後にアクセシビリティまたは画面収録の許可を改めて求められる場合がありますが、既存の試用やライセンスはキーチェーンに保持されます。"
+}
+</description>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.1/unau-0.1.1-macos-universal.dmg" length="14602990" type="application/octet-stream" sparkle:edSignature="uTt/8QPtypqoTaRa4gzWL0joKLeUqVqdlD9wnnAoHFtqSykihDs4CBPRQNTT5Es9fvwp+Qq0JgEz9ZUr4uhQAQ=="></enclosure>
+    </item>
+    <item>
       <title>Unau 0.1.1-beta.8</title>
       <sparkle:version>20</sparkle:version>
       <sparkle:shortVersionString>0.1.1-beta.8</sparkle:shortVersionString>
@@ -130,6 +143,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Ga+Roql7Z6b+OoE5H7HvtezcsvD5R50a+jnOM08yEr9zhHBCgStnkEl2SI1TEHowJDX6dz+UvwQ5+EgUDKTTAg==
-length: 34984
+edSignature: higB/ovBTU1lDcgSuoJkWzA8ij0ft2h7xW7gCAAXBBmfsrXTiqYS0+m/wd70lH30ikC7iOdo4gK1bHttcacFAA==
+length: 40298
 -->
