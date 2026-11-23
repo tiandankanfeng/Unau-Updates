@@ -4,6 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Unau updates</title>
     <item>
+      <title>Unau 0.1.2</title>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description>{
+  "zh-Hans": "• 挂枝树叶阻尼摇曳：展开窗口架时，挂在橄榄枝上的窗口卡片从左到右错峰轻晃并在约 1.2 秒内柔和归稳；横向滚轮或拖拽浏览时附带真实钟摆惯性摆动；鼠标轻拂单卡时独立微晃，枝梢双叶同步轻颤；静止后空闲 CPU 为 0%，开启减弱动画自动静默。\n• 参考浮签「已静止」轻提醒与 HUD 打磨：保持纯像素本地差分、零内容读取的隐私底线，当终端或 AI 输出由变动转为静止时，浮签边缘亮起品牌绿光环并浮出「已静止 · 切过去」快捷胶囊，半透明盯屏状态下自动柔亮提醒 2.6 秒后淡回；升级透明标题栏与暖纸/松影底色，未悬停时底部操作栏自动柔隐。\n• 副屏压暗交叉渐暗并进驻常用工具主面板：按显示器复用压暗幕布，切换主副屏时改为 0.22 秒柔和交叉淡入淡出；在右键「常用工具」主面板直接增加副屏三档压暗（单屏自动显示专注衬底）入口，并与菜单栏值班状态联动。\n• 抵达光框与菜单栏小树懒微动效：切窗抵达光框新增 0.14 秒柔和入场呼吸，跨屏方向提示胶囊顺着目标屏方向轻滑进入；点击展开窗口架时菜单栏小树懒轻柔点头一次，值班标记升级为高对比松绿圆点。\n\n本正式版目前尚未取得 Apple 公证。更新后，macOS 可能需要你重新确认辅助功能或屏幕录制权限；现有的试用或正式授权会保留在钥匙串中。",
+  "en": "• Organic leaf-pendulum sway on the branch shelf: opening the shelf sends a gentle staggered breeze across hanging window cards that settles cleanly in ~1.2s; horizontal scrolling adds subtle pendulum inertia; brushing a card nudges it individually while the two olive tip leaves flutter in sync. Drops to 0% CPU at rest and respects Reduced Motion.\n• Reference Slip settled alert &amp; sleek HUD: keeping pure local pixel-diff privacy, slips transitioning from changing to settled now flash a soft green halo with a floating “Settled · Switch” pill and briefly wake from 52% translucent mode for 2.6s; upgraded with a transparent Unau-tinted title bar and auto-fading controls when watching quietly.\n• Cross-fading secondary display dimming in Quick Tools: secondary display veils now reuse panels for a smooth 0.22s cross-fade when focus moves across monitors, and a direct Dim Other Displays / Focus Backdrop control now lives right inside the menu bar Quick Tools panel.\n• Breathing arrival halo &amp; living menu bar sloth: window arrival frames fade in smoothly over 0.14s with an 8pt directional slide on cross-display cues; opening the shelf triggers a subtle one-shot nod on the menu bar sloth alongside a clearer pine-green active-tool dot.\n\nThis release is ad-hoc signed and not Apple-notarized. After updating, macOS may ask you to confirm Accessibility or Screen Recording access again; your existing trial or license remains in Keychain.",
+  "ja": "• 枝シェルフの葉のような揺らぎ物理：シェルフを開くと掛かったウインドウカードが左から順にやさしく揺れて約 1.2 秒で静止し、横スクロールやドラッグには自然な振り子慣性を追加。カードにポインタを当てるとその 1 枚だけが小さく揺れ、枝先の双葉も連動します。静止時は CPU 0%、「視差効果を減らす」設定にも完全対応。\n• 参照スリップの静止お知らせと軽量 HUD：画面内容を読まない純ピクセル差分のまま、端末や AI 出力が「変化中」から「静止」へ切り替わった瞬間に緑のリングと「静止 · 切替」ピルを表示し、半透明モード中でも 2.6 秒間やさしく明るく知らせます。透過タイトルバーと非ホバー時の操作バー自動減光も追加。\n• サブ画面暗転のなめらかなクロスフェードとツール直結：画面切替時に 0.22 秒のクロスフェードで自然に暗転が切り替わり、メニューバーの「よく使うツール」から直接 3 段階のサブ画面暗転（単一画面では集中背景）を操作できるようになりました。\n• 到着ハイライトとメニューバーの微モーション：到着枠に 0.14 秒のフェードイン、別画面への方向ガイドに 8pt のスライド演出を追加。シェルフ展開時にメニューバーのナマケモノが軽くうなずき、稼働中インジケーターも視認性を高めました。\n\nこの正式版はアドホック署名であり、Apple の公証は受けていません。更新後にアクセシビリティまたは画面収録の許可を改めて求められる場合がありますが、既存の試用やライセンスはキーチェーンに保持されます。"
+}
+</description>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.2/unau-0.1.2-macos-universal.dmg" length="14786046" type="application/octet-stream" sparkle:edSignature="Iog0sLdjERW3A38fVCiT6XDGvt0iFIL2ODRmha/h2to4XQANT55OyDWmsmaDgx+pX2Kq5ECMIsS/2y1EiI8PDw=="></enclosure>
+    </item>
+    <item>
       <title>Unau 0.1.2-beta.1</title>
       <sparkle:version>22</sparkle:version>
       <sparkle:shortVersionString>0.1.2-beta.1</sparkle:shortVersionString>
@@ -157,6 +170,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: vxgRMaB1wgxhLwP/5X6lv+LqG7QMxzmZIEYkWIaKAt+mev0og56EgbgvgSJ0fKP4vonEM/zbINPTiaBM+TWOCQ==
-length: 45757
+edSignature: VwGkHiC6Z9RYM8DQP6fro//Oz5N/Ivp0cpTSH2dyYGBegxX16qxNIxq+rR4aiNFlA0nN19V671fiQVV/G8CeAg==
+length: 51194
 -->
