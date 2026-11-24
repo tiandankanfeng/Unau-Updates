@@ -4,6 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Unau updates</title>
     <item>
+      <title>Unau 0.1.3</title>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description>{
+  "zh-Hans": "• 常用工具浮窗交互全面修整：右上角补齐轻柔关闭按钮（×），底栏直出「退出」入口；修复右下角「⋯」更多菜单点击热区过小及弹出时序问题，一点即开；精简副屏压暗档位标签与副标题避免截断，补齐四行对齐；有工具运行时顶栏亮起松绿「值班中」微胶囊。\n• 和纸松影色温与统一手绘细线图标：浅色调入温润微暖和纸底色，深色调入沉静松林墨底色；为清洁键盘、演示准备与副屏压暗全套手绘与枝叶茶杯同笔触的定制细线图标。\n• 枝条自然收尖与挂绳物理联动：主枝条改为中稳两端收尖的自然植物曲线；开启固定悬挂线时左端缀以松绿钉扣呼应右端双叶；悬停卡片微抬时挂绳、绳结与卡扣实时轻提并随摇曳轻微弯曲。\n• 触控板微震动与清洁键盘仪式感：展开枝条、切窗、配对与开关工具加入克制的 Force Touch 触控板微震动反馈（尊重减弱动画）；清洁键盘界面升级柔和松林径向微光与细环橄榄叶徽印。\n\n本正式版目前尚未取得 Apple 公证。更新后，macOS 可能需要你重新确认辅助功能或屏幕录制权限；现有的试用或正式授权会保留在钥匙串中。",
+  "en": "• Quick Tools popover polish &amp; fixes: added a clean top-right close button (×) and a direct Quit action in the footer; fixed the bottom-right “…” button hit area and popup timing so the menu opens reliably on the first click; shortened secondary dim level labels to prevent subtitle truncation; added a calm “Active” pine badge in the header when any tool is running.\n• Warm washi / deep pine palette &amp; unified hand-drawn icons: harmonized light and dark surfaces with subtle warm parchment and pine-charcoal tones, and crafted matching fine-line icons for Clean Keyboard, Presentation Setup and Dim Other Displays alongside the leaf-cup Keep Awake icon.\n• Tapered olive branch &amp; living hanger cords: sculpted the branch with natural organic tapering, added a left-tip pine stud when pinned, and linked hanging cords and clasps so they lift and gently flex as cards hover and sway.\n• Subtle trackpad haptics &amp; meditative Keyboard Cleaning: added restrained Force Touch haptic taps (skipped under Reduced Motion) and refined the full-screen keyboard cleaning canvas with a soft radial pine glow and botanical emblem.\n\nThis release is ad-hoc signed and not Apple-notarized. After updating, macOS may ask you to confirm Accessibility or Screen Recording access again; your existing trial or license remains in Keychain.",
+  "ja": "• よく使うツールポップオーバーの操作改善：右上に閉じる（×）ボタン、フッターに「終了」を直接配置し、右下「…」のクリック領域とメニュー表示タイミングを修正しました。サブ画面暗転のラベルを簡潔にして文字切れを防ぎ、ツール稼働中は上部に「稼働中」バッジを表示します。\n• 和紙・松影トーンと統一手描きアイコン：ライト／ダーク外観にほんのり温かみのある和紙白と深い松林トーンを調和させ、キーボード掃除・プレゼン準備・サブ画面暗転も茶碗の葉と同じ繊細な線画アイコンで統一しました。\n• 自然に先細る枝と吊り紐の連動：枝に自然な強弱をつけ、固定時は左端に小さな松緑の留め具を表示。カードのホバーや揺れに合わせて吊り紐と留め具もやさしく連動します。\n• 控えめな触覚フィードバックと掃除モードの仕上げ：シェルフ展開や切替時に Force Touch トラックパッドの繊細な振動を追加（視差効果を減らす設定に準拠）し、キーボード掃除画面も落ち着いた松林グラデーションと紋章で整えました。\n\nこの正式版はアドホック署名であり、Apple の公証は受けていません。更新後にアクセシビリティまたは画面収録の許可を改めて求められる場合がありますが、既存の試用やライセンスはキーチェーンに保持されます。"
+}
+</description>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.1.3/unau-0.1.3-macos-universal.dmg" length="14931039" type="application/octet-stream" sparkle:edSignature="nh6EmfTD7QNvuhPqfJOCripRXVejzkoIfXNrG21oMvcGrxsOVKaKAeW9Pah6hh6PPgsme0POpDmhzAoENO2NCw=="></enclosure>
+    </item>
+    <item>
       <title>Unau 0.1.2</title>
       <sparkle:version>23</sparkle:version>
       <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
@@ -170,6 +183,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: VwGkHiC6Z9RYM8DQP6fro//Oz5N/Ivp0cpTSH2dyYGBegxX16qxNIxq+rR4aiNFlA0nN19V671fiQVV/G8CeAg==
-length: 51194
+edSignature: H95P9rwHTKzUUVR42awEdgGFdXqbz5bKSZk3YMNaxDzVoN3PH/xdGwrA2XX19KizjAFpSq4FQMxeolRWy/PdBw==
+length: 56020
 -->
