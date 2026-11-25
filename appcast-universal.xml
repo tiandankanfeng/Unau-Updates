@@ -4,6 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Unau updates</title>
     <item>
+      <title>Unau 0.2.1-beta.1</title>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>0.2.1-beta.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <description>{
+  "zh-Hans": "• 台前调度原生唤回桌面中央：识别台前调度侧栏缩略图与 WindowManager 代理层，点击卡片时先置为主窗并激活应用；当系统单窗分组或侧栏叠放未自动滑出时，原地静默补触发一次侧栏唤醒并在落位桌面中央后二次置顶目标子窗，不再只停在侧栏画小绿框。\n• 重叠窗口真实 Z 序置顶与防穿透光环：激活校验新增真实 Z 序遮挡检测，确保叠放底部的同应用或跨应用窗口真正浮到最前；到达光环下沉至浮动面板之下（绝不再盖住挂枝、放大预览、参考浮签或系统菜单），重塑为克制通透的 2.2pt 松绿微光边并支持局部遮挡反向裁剪，常规同屏切换默认隐藏遮挡标签栏的黑胶囊。\n• 副屏压暗、幽灵窗过滤与预览打磨：副屏压暗层下沉至挂枝与参考浮签之下避免误暗自家 UI，主屏专注衬底贴合前台窗口下方防止被台前调度挤出舞台；过滤 Chromium / Finder 零透明与超薄工具条幽灵假窗；窗口缩回台前调度侧栏时保留原有高清平面预览缓存；修复固定悬挂线时短名输入框聚焦、实时「已在此窗口」判断与放大预览轻柔垂落动效。\n\n本预发布版目前尚未取得 Apple 公证。更新后，macOS 可能需要你重新确认辅助功能或屏幕录制权限；现有的试用或正式授权会保留在钥匙串中。",
+  "en": "• Stage Manager center-stage unstaging: detects Stage Manager side-strip thumbnails and WindowManager proxies, promotes and activates the exact target window, falls back to a cursor-preserving strip click when macOS keeps a grouped/stacked app parked in the strip, and re-raises the chosen window once it lands on center stage instead of outlining the tiny side thumbnail.\n• Overlapping-window Z-order raising &amp; occlusion-safe arrival halo: verifies live front-to-back Z-order so buried same-app or cross-app windows actually rise above covering windows; moves the arrival halo strictly below Unau's floating Shelf, Peek, Reference Slips, and system menus; refines it into a crisp 2.2pt pine hairline glow with inverse occlusion clipping and hides redundant capsules on ordinary same-screen switches.\n• Focus veils, phantom-window filtering &amp; polish: lowers Secondary Dim veils below Unau's own floating UI and anchors Focus Backdrop behind the active window for Stage Manager compatibility; filters zero-alpha and ultra-thin browser/Finder helper slivers; preserves crisp flat previews when windows shrink into Stage Manager's strip; fixes pinned-shelf short-name typing, live already-focused checks, and smooth Peek entrance.\n\nThis prerelease is ad-hoc signed and not Apple-notarized. After updating, macOS may ask you to confirm Accessibility or Screen Recording access again; your existing trial or license remains in Keychain.",
+  "ja": "• ステージマネージャ中央復帰対応：サイドストリップの縮小サムネイルと WindowManager プロキシを検出し、対象ウインドウを前面化。OS 側で戻らないスタック時はカーソル位置を保ったままサイドサムネイルを静かにクリックして中央へ引き出し、着地後に選択ウインドウを最前面へ整えます。\n• 重なりウインドウの Z 順前面化と透け防止ハロー：実際の前後 Z 順を確認して背面のウインドウを確実に前面化。到着ハローはシェルフ・プレビュー・参照スリップより下に配置し、重なり領域を自動マスクする繊細な 2.2pt 松緑フレームへ刷新、同画面切替では余計なカプセル表示を抑えました。\n• サブ画面減光・ゴースト窓除外・細部の仕上げ：サブ画面減光を Unau 自身の浮動 UI の下に配置し、集中背景をステージマネージャと競合しない背面順へ調整。透明・極薄ツールバーの仮想ウインドウを除外し、サイド縮小時も鮮明な平面プレビューを保持、固定シェルフ時の短縮名入力やプレビュー出現も滑らかに整えました。\n\nこのプレリリース版はアドホック署名であり、Apple の公証は受けていません。更新後にアクセシビリティまたは画面収録の許可を改めて求められる場合がありますが、既存の試用やライセンスはキーチェーンに保持されます。"
+}
+</description>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.2.1-beta.1/unau-0.2.1-beta.1-macos-universal.dmg" length="16382474" type="application/octet-stream" sparkle:edSignature="iOT7GUgmK5T+kZ1O6WhkOOMR8ya6GZSW0vCtAqBXHik4g2qNA1Q/bpGHK94bZ4ztdLq+UWxy6VvXMDadtSkyDA=="></enclosure>
+    </item>
+    <item>
       <title>Unau 0.2.0</title>
       <sparkle:version>27</sparkle:version>
       <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
@@ -210,6 +224,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Et4RTSnQ1Ll6xoSTsrKIFrjzunYHnXG5PQ0C5UghFxU76pRnDjEW0je+EOk4FREzXe0rNk6HQia9xQrnxqC8Dg==
-length: 67756
+edSignature: w+LD1JmAIvpy5C4qQ6BhXJhTIBP3nqouiepzwtm1tuaOKLSPRIyamsyXYwIUVCZav1x1vQEY9AdaGuHocO5VDQ==
+length: 72879
 -->
