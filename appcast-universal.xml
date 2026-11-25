@@ -4,6 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Unau updates</title>
     <item>
+      <title>Unau 0.2.0</title>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description>{
+  "zh-Hans": "• 半透明毛玻璃挂枝顶篷与满幅画廊卡片：窗口架新增非拦截点击的宣纸 / 松墨半透明顶篷，在深色或照片壁纸上清晰托出橄榄枝、挂绳与绳结；窗口卡片取消旧版厚白边框与留白柱，升级满幅预览与左下角紧凑屏标胶囊（松绿「当前屏」或「左屏 / 右屏」），去掉悬停原生灰气泡；活跃并排对间新增松绿虚线连枝，随手窗右上角缀松绿书签。\n• 可选本地算法「林间声景」（AVAudioEngine 实时合成）：零音频文件、静默 3.5 秒自动停机零后台耗电，在设置页自由切换「晨露清铃 / 微风拂叶 / 静默」、调节音量与一键试听；覆盖展开窗口架、轻拂与点击卡片（五声竹木轻嗒）、参考浮签静止提醒（山涧竹滴水）与激活欢迎礼（三音松风木琴）；演示准备期间自动静音。\n• 全新 4 页零滚动「Unau 工艺版」设置窗口：左侧「细枝脊柱」导航配可点击轻摆小树懒与生长松绿嫩叶，右侧收整为「声景与意境 / 窗口与多屏 / 快捷键 / 系统与权限」四屏，内嵌可互动「林间风铃枝台」、迷你挂枝与副屏柔暗实时预览，以及权限就绪松叶印章摘要。\n• 四时枝梢叶片、林间欢迎礼与手作细节：枝梢双叶随春夏秋冬微调色泽（可切回恒定松绿）；兑换或激活成功后呈现「欢迎来到枝头」生长枝条与印章欢迎礼；关于窗口新增可点击轻晃的钟摆树懒；菜单栏工具值班标记升级为手绘松绿小嫩叶。\n\n本正式版目前尚未取得 Apple 公证。更新后，macOS 可能需要你重新确认辅助功能或屏幕录制权限；现有的试用或正式授权会保留在钥匙串中。",
+  "en": "• Frosted canopy shelf &amp; full-bleed gallery cards: added a click-through translucent washi/pine canopy behind the olive branch and hanger cords so they stay crisp over any dark or photo wallpaper; upgraded window cards to edge-to-edge previews with compact floating screen pills, removed overlapping native tooltips, added a dashed pine link between active paired windows and a miniature pine bookmark on Companion windows.\n• Optional on-device Forest Soundscape (AVAudioEngine synthesis): zero bundled audio files and 0% idle CPU after a 3.5s quiet auto-stop, configurable between Morning Dew Chime, Breeze Through Leaves, or Silent with volume fader and live audition; automatically muted during Presentation Setup. Covers shelf reveal, pentatonic wood taps, bamboo water drop on Reference Slip settle, and a pine-forest welcome chord.\n• Redesigned 4-pane zero-scroll Craft Settings: replaced the long scroll form with a vertical olive-twig navigation rail (playable hanging sloth + sprouting active leaf), unified Living Branch Soundstage with swaying temple chime and four-season switcher, live mini shelf + 0.22s secondary dimming preview, smart permission/shortcut routing, and a calm pine-leaf readiness seal.\n• Four-season branch leaves, Welcome Ceremony &amp; handcrafted touches: tip leaves shift subtly with the seasons (toggleable to classic pine); license activation opens a growing-branch welcome card with stamped seal; About Unau features a playable pendulum sloth; active menu bar tools display a hand-drawn miniature pine leaf.\n\nThis release is ad-hoc signed and not Apple-notarized. After updating, macOS may ask you to confirm Accessibility or Screen Recording access again; your existing trial or license remains in Keychain.",
+  "ja": "• 半透明キャノピーと全面ギャラリーカード：クリック透過の和紙／松墨フロスト背景を枝と吊り紐の背面に配し、暗い壁紙の上でもくっきり表示。ウインドウカードは余白のない全面プレビューと左下の画面ピルへ刷新し、アクティブなペア間の松緑リンク線とコンパニオン窓のしおりバッジを追加しました。\n• 選べるローカル生成「森のサウンドスケープ」（AVAudioEngine 合成）：音声ファイル不要・3.5 秒無音で自動停止し待機 CPU 0%。「朝露の風鈴／葉を揺らすそよ風／消音」の切替・音量・試聴に対応し、プレゼン準備中は自動消音。シェルフ展開・カード操作・参照スリップ静止・ライセンス認証の微細な音を収録。\n• 新設計 4 画面・スクロール不要の「Unau クラフト設定」：揺らせるナマケモノと選択中の節に若葉が芽吹く「細枝ナビゲーション」、揺れる風鈴と四季切替を統合したステージ、ミニ枝カードと 0.22 秒サブ画面減光のリアルタイム見本、権限完了時の松葉スタンプを備えました。\n• 四季の枝先・枝先ウェルカム演出・細部の仕上げ：枝先の双葉が季節ごとに色づき、認証完了時に成長する枝とスタンプを表示。アバウト画面のナマケモノはクリックで揺れ、メニューバー稼働時は小さな手描き松葉が芽生えます。\n\nこの正式版はアドホック署名であり、Apple の公証は受けていません。更新後にアクセシビリティまたは画面収録の許可を改めて求められる場合がありますが、既存の試用やライセンスはキーチェーンに保持されます。"
+}
+</description>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.2.0/unau-0.2.0-macos-universal.dmg" length="16312857" type="application/octet-stream" sparkle:edSignature="OPnlSwsHFVQVSScpOJhPaDlHUoo2+4IAQDSXm5h3PF0NB0lQfS2664klPB8Lif4p+nV6eSKJOsXgjS8PNJFmAQ=="></enclosure>
+    </item>
+    <item>
       <title>Unau 0.2.0-beta.1</title>
       <sparkle:version>25</sparkle:version>
       <sparkle:shortVersionString>0.2.0-beta.1</sparkle:shortVersionString>
@@ -197,6 +210,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ZTf8oz821Rcxf0XXrclFXXBMB+C5MsQuRAK3Ieyl6Z2GNlQocmaqjcjfiCYKY8aVbr+W549EsSvF8cDaaBl2Dg==
-length: 61773
+edSignature: Et4RTSnQ1Ll6xoSTsrKIFrjzunYHnXG5PQ0C5UghFxU76pRnDjEW0je+EOk4FREzXe0rNk6HQia9xQrnxqC8Dg==
+length: 67756
 -->
