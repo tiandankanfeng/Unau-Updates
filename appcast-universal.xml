@@ -4,6 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Unau updates</title>
     <item>
+      <title>Unau 0.2.1-beta.2</title>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.2.1-beta.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <description>{
+  "zh-Hans": "• 滑动与点击响应丝滑提速：点击卡片时将系统窗口快照与焦点校验整体移至后台单次读取，消除主线程卡顿，并将便笺与画中画移出 Z 序重试阻挡，取消多余等待循环；重构悬挂卡片为纯值语义视图并改用 O(1) 增量预览刷新、顶部 78pt 枝条画布与按需边缘遮罩，核心滚动切换耗时降低约 55 倍。\n• 回归 Unau 克制哲学与器物工艺：大幅瘦身挂枝顶部「⋯」菜单为「筛选窗口… / 刷新窗口与预览 / 设置…」三项核心图标入口，移除被截断的灰色状态行与重复备份项；升级顶部受光和纸渐变底色与柔光内描边，在宽屏左侧橄榄枝肩部加入随风轻摆、遇绳自动礼让淡出的微型树懒印记，并将卡片「当前」标记移至底栏松绿圆点以保留完整画面呼吸感。\n• 延续 0.2.1 台前调度与重叠窗口打磨：完整保留台前调度侧栏窗口原生唤回桌面中央、重叠折叠窗真实 Z 序浮顶、不穿透自家浮层的 2.2pt 松绿到达光环，以及副屏压暗层级与幽灵窗过滤优化。\n\n本预发布版目前尚未取得 Apple 公证。更新后，macOS 可能需要你重新确认辅助功能或屏幕录制权限；现有的试用或正式授权会保留在钥匙串中。",
+  "en": "• Butter-smooth scrolling &amp; instant click response: moves live window-list and focus verification off the main thread into a single background pass, ignores floating Stickies/PiP overlays during Z-order retries, removes redundant post-unstage delays, decouples shelf cards into pure Equatable views with O(1) visible-range preview hydration, shrinks the olive-branch canvas to a 78pt top strip, and allocates edge masks only when clipping (~55x faster scroll state transitions).\n• Restrained menu &amp; signature Unau craft: streamlines the shelf \"...\" menu down to three focused icon-paired essentials (Filter Windows, Refresh Windows &amp; Previews, Settings) without truncated status rows or duplicated backup entries; upgrades the frosted canopy with a top-lit translucent washi gradient and specular inner hairline; adds a whisper-refined miniature Unau sloth hallmark on the far-left olive branch shoulder on wide displays that sways gently and yields to passing cords; moves the Current marker to a crisp pine dot on the card caption bar.\n• Includes all 0.2.1 Stage Manager &amp; overlapping-window refinements: center-stage unstaging from Stage Manager's side strip, live Z-order raising for buried windows, occlusion-clipped 2.2pt pine arrival halo, and phantom-window filtering.\n\nThis prerelease is ad-hoc signed and not Apple-notarized. After updating, macOS may ask you to confirm Accessibility or Screen Recording access again; your existing trial or license remains in Keychain.",
+  "ja": "• スクロールとクリック応答の高速化：カードクリック時のウインドウ状態・フォーカス確認をバックグラウンドの単一スキャンへ移行し、付箋やピクチャ・イン・ピクチャによる不要な再試行と待機を解消。カードを値ベースの Equatable 構成へ刷新し、O(1) プレビュー更新・上部 78pt 枝キャンバス・必要時のみの端マスクにより、スクロール状態遷移を約 55 倍高速化しました。\n• 節度あるメニュー設計と Unau らしい工芸美：シェルフの「…」メニューをアイコン付き 3 項目（ウインドウを絞り込む／更新／設定）へすっきり整理し、途中切れの案内文や重複バックアップ項目を削除。和紙調グラデーション天蓋と繊細な内側ハイライトを加え、広い画面の左枝肩にはそよ風と連動し吊り紐に道を譲る小さなナマケモノの刻印を添えました。カード上の「現在」バッジは下段タイトル横の松緑ドットへ移し、画面プレビューを遮りません。\n• 0.2.1 のステージマネージャ・重なりウインドウ改善を内包：サイドストリップから中央への復帰、重なり背面ウインドウの Z 順前面化、2.2pt 松緑ハローの重なりマスク、ゴースト窓除外を引き継ぎます。\n\nこのプレリリース版はアドホック署名であり、Apple の公証は受けていません。更新後にアクセシビリティまたは画面収録の許可を改めて求められる場合がありますが、既存の試用やライセンスはキーチェーンに保持されます。"
+}
+</description>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.2.1-beta.2/unau-0.2.1-beta.2-macos-universal.dmg" length="16408210" type="application/octet-stream" sparkle:edSignature="YFbmD9MW4OyoKwotptfb09at73XhxBX4HiJd1vP4JQh5dOcxEZkP9TP5vtFSoPEVUvpd4ZH8Z7lq2GIOJZ+0Dg=="></enclosure>
+    </item>
+    <item>
       <title>Unau 0.2.1-beta.1</title>
       <sparkle:version>28</sparkle:version>
       <sparkle:shortVersionString>0.2.1-beta.1</sparkle:shortVersionString>
@@ -224,6 +238,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: w+LD1JmAIvpy5C4qQ6BhXJhTIBP3nqouiepzwtm1tuaOKLSPRIyamsyXYwIUVCZav1x1vQEY9AdaGuHocO5VDQ==
-length: 72879
+edSignature: KHdFZPy1/UFnp/sSjPhRrvA0y/+kritvCYAbSLCVtfTZ9HWkxHA11psumE2t5ISLnbYuD2QNBy9g6iu6537XDA==
+length: 78113
 -->
