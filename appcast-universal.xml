@@ -4,6 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Unau updates</title>
     <item>
+      <title>Unau 0.2.1-beta.3</title>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>0.2.1-beta.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <description>{
+  "zh-Hans": "• 悬浮液态玻璃亭阁与设计感重塑：彻底告别铺满整屏的厚重灰白底板，挂枝背景改为随当前窗口数量自适应收放的居中悬浮亭阁（22pt 同心圆角），在 1080p 与超宽屏左右留出干净完整的桌面呼吸感；macOS 26+ 实时面板自动启用原生 Liquid Glass（NSGlassEffectView .clear）通透玻璃折射，叠加顶部柔光天窗薄雾与 0.85pt 光学高光倒角（macOS 13–15 同步升级为高通透光学磨砂），深色雨滴等氛围壁纸可自然透光呈现。\n• 立体橄榄枝、连续胶囊顶冠与精致无预览卡：橄榄枝精准收拢至亭阁左右肩部，升级为带投影与顶部日照高光的渐细立体枝条，配双层高光缠绕绳结、左肩嫩橄榄芽叶与微型小树懒印记，与右端四季双叶左右呼应；顶栏升级为全圆角连续曲率胶囊，卡片升级为 12pt 同心圆角与双层悬浮投影；重做无预览文字卡片（磨砂方圆图标徽章 + 和纸渐变底色，并自动去重与应用名相同的标题）。\n• 完整包含 0.2.1 丝滑性能、克制菜单与台前调度打磨：保留 55 倍提速的 120Hz 滑动与瞬时点击响应、精简 3 项「⋯」菜单，以及台前调度侧栏原生唤回桌面中央、重叠窗真实 Z 序置顶与 2.2pt 防穿透到达光环。\n\n本预发布版目前尚未取得 Apple 公证。更新后，macOS 可能需要你重新确认辅助功能或屏幕录制权限；现有的试用或正式授权会保留在钥匙串中。",
+  "en": "• Sculpted Liquid Glass floating pavilion: replaces the full-width opaque grey slab with a poised content-hugging floating canopy (22pt concentric corners) that frames your hanging windows while letting open desktop wallpaper breathe on 1080p and ultrawide screens; activates native macOS 26+ Liquid Glass (NSGlassEffectView .clear) with a soft top skylight mist and 0.85pt optical bevel (and an airy translucent frost fallback on macOS 13–15).\n• Dimensional olive branch, continuous capsule crown &amp; stationery no-preview cards: frames the tapered olive branch intimately across the floating pavilion with soft depth shadow, sunlit bark sheen, double-ring cord knots, a left-shoulder olive sprout beside the miniature Unau sloth hallmark, and twin seasonal leaves on the right; upgrades the toolbar to a full continuous capsule crown, lifts cards with 12pt concentric corners and dual-layer shadows, and redesigns no-preview cards with frosted squircle app badges and deduplicated titles.\n• Includes all 0.2.1 performance, restraint &amp; Stage Manager upgrades: ~55x faster scroll state transitions, instant click response, streamlined 3-item \"...\" menu, Stage Manager center-stage unstaging, live Z-order raising, and occlusion-clipped 2.2pt pine arrival halo.\n\nThis prerelease is ad-hoc signed and not Apple-notarized. After updating, macOS may ask you to confirm Accessibility or Screen Recording access again; your existing trial or license remains in Keychain.",
+  "ja": "• 浮かぶリキッドガラスのパビリオンへ刷新：画面幅いっぱいの不透明な灰白背景を廃止し、並ぶウインドウ枚数に合わせて中央へ美しく収まる 22pt 同心角丸の浮遊パビリオンへ再設計。macOS 26 以降ではネイティブの Liquid Glass（NSGlassEffectView .clear）と上部 skylight ミスト・0.85pt 光学ハイライトを採用し（macOS 13–15 でも透明感の高い光学フロストへ改善）、お気に入りの壁紙がガラス越しに柔らかく呼吸します。\n• 立体オリーブ枝・カプセル頂冠・上質なテキストカード：枝条をパビリオン両肩へ収め、立体的な陰影と陽光のハイライト、二重結び目、左肩の小さな若芽とナマケモノ刻印、右端の四季の双葉で調和を整えました。上部バーは連続曲率カプセルへ、カードは 12pt 同心角丸と二層浮遊シャドウへ磨き上げ、プレビュー無しカードも和紙グラデーションとアイコンバッジ・重複タイトル整理で丁寧に仕上げています。\n• 0.2.1 の高速スクロール・簡潔なメニュー・ステージマネージャ対応を内包：約 55 倍高速化したスクロール遷移、瞬時のクリック応答、3 項目の「…」メニュー、ステージマネージャ中央復帰・Z 順前面化・重なりマスク付き松緑ハローを引き継ぎます。\n\nこのプレリリース版はアドホック署名であり、Apple の公証は受けていません。更新後にアクセシビリティまたは画面収録の許可を改めて求められる場合がありますが、既存の試用やライセンスはキーチェーンに保持されます。"
+}
+</description>
+      <enclosure url="https://github.com/tiandankanfeng/Unau-Updates/releases/download/v0.2.1-beta.3/unau-0.2.1-beta.3-macos-universal.dmg" length="16520424" type="application/octet-stream" sparkle:edSignature="oC+v23B8TgoAU8iGddbX882dOQdcxlYANIOeUxwA2qFibDdW4neh5uf5AWz87j1veQfHmXRWZ0hm04hvIqHRDA=="></enclosure>
+    </item>
+    <item>
       <title>Unau 0.2.1-beta.2</title>
       <sparkle:version>29</sparkle:version>
       <sparkle:shortVersionString>0.2.1-beta.2</sparkle:shortVersionString>
@@ -238,6 +252,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: KHdFZPy1/UFnp/sSjPhRrvA0y/+kritvCYAbSLCVtfTZ9HWkxHA11psumE2t5ISLnbYuD2QNBy9g6iu6537XDA==
-length: 78113
+edSignature: /+tWlQ2tb7SMtQOJFVr3mjhV5Eg3J+wffaDTSnukK8V78uGtFcvoqTiC/kCW3csGGua2ud3c73niRgT4asMnCQ==
+length: 83584
 -->
